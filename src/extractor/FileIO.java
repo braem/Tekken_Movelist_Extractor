@@ -44,6 +44,7 @@ public class FileIO
 			charContents.add(indent + "\"copyright\": \"" + copyright + "\",");
 			for(int i=0; i<titles.size(); i++) {
 				charContents.add(indent + "\"" + titles.get(i) + "\": {");
+				charContents.add(indent + "\t\"art\": \"" + titles.get(i) + "\",");
 				charContents.add(indent + "\t\"header\": [");
 				for(int j=0; j<headers.get(i).size(); j++) {	//header
 					String c = indent + "\t\t\"" + headers.get(i).get(j) + "\"";
