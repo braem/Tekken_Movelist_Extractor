@@ -14,7 +14,6 @@ import java.util.Arrays;
 public class HtmlExtractor
 {
 	public static void main (String[] args) throws IOException {
-
 		ArrayList<Char> characters = GameInfo.createCharacters();	//create characters	
 		if(args.length == 1) { 
 			if(args[0] == "all") {
@@ -24,7 +23,7 @@ public class HtmlExtractor
 				}
 			}
 			else if(Arrays.asList(GameInfo.games).contains(args[0])){
-				System.out.println("Extracting " + args[0] + "Movelists...");
+				System.out.println("Extracting " + args[0] + " Movelists...");
 				extract(args[0], characters);
 			}
 			else if(args[0].equalsIgnoreCase("help")) {
@@ -36,9 +35,10 @@ public class HtmlExtractor
 				System.out.println("Game not recognized");
 			}
 		}
-		
-		System.out.println("Extracting tekken6 Movelists...");
-		extract("tekken6", characters);
+		else {
+			System.out.println("Extracting tekken6 Movelists...");
+			extract("tekken6", characters);
+		}
 		
 	}
 	
@@ -54,7 +54,7 @@ public class HtmlExtractor
 	}
 	
 	public static Movelist extractMovelist(String game, Char character) throws IOException {
-		URL url 			= new URL ("http://www.tekkenzaibatsu.com/" + game + "/movelist.php?id=" + character.id);
+		URL url = new URL ("http://www.tekkenzaibatsu.com/" + game + "/movelist.php?id=" + character.id);
 
 		//check if page exists
 		try {
@@ -116,7 +116,12 @@ public class HtmlExtractor
 					if(contents.get(i+j).trim().equals("</table>")) break;
 					while(true) {
 						if(contents.get(i+j+1).trim().equals("</tr>")) { j++; break; }
-						move.add(trimRight(trimHTML(contents.get(i+j+1)).substring(16, trimHTML(contents.get(i+j+1)).length())));
+						int indent;
+						if( game.equals("tekken4") || game.equals("tekken3") || game.equals("tekkentag") )
+							indent = 18;
+						else
+							indent = 16;
+						move.add(trimRight(trimHTML(contents.get(i+j+1)).substring(indent, trimHTML(contents.get(i+j+1)).length())));
 						j++;
 					}
 					movs.add(move);
@@ -138,7 +143,10 @@ public class HtmlExtractor
 				}
 				
 				//add title, header, moves, and footnotes to their respective lists
-				titles.add(trimHTML(contents.get(i-4)).trim());
+				if( game.equals("tekken4") || game.equals("tekken3") || game.equals("tekkentag") )
+					titles.add(trimHTML(contents.get(i-3)).trim());
+				else
+					titles.add(trimHTML(contents.get(i-4)).trim());
 				headers.add(header);
 				moves.add(movs);
 				footnotes.add(footnote);
@@ -160,7 +168,7 @@ public class HtmlExtractor
 		return contents;
 	}
 	private static String trimHTML(String str) {
-		return str.replaceAll("<[^>]*>", "").replace("&nbsp;", " ").replace("&lt;", "<").replace("&quot;", "\"");
+		return str.replaceAll("<[^>]*>", "").replace("&nbsp;", " ").replace("&lt;", "<").replace("&quot;", "");
 	}
 	private static String trimRight(String str) {
 		return str.replaceAll("\\s+$","");
