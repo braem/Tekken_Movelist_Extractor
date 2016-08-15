@@ -6,12 +6,12 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.PrintWriter;
 import java.net.HttpURLConnection;
 import java.net.SocketException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;
+import java.util.Arrays;
 
 public class HtmlExtractor
 {
@@ -28,18 +28,42 @@ public class HtmlExtractor
 	};
 	
 	public static void main (String[] args) throws IOException {
-		
-		ArrayList<Movelist> movelists = new ArrayList<Movelist>();
-		
-		for(String game : games) {
-			for(String character : characters) {
-				Movelist movelist = extractMovelist(game, character);
-				if(movelist != null)
-					movelists.add(movelist);
-				JSONify(game, movelists);
+
+		if(args.length == 1) { 
+			if(args[0] == "all") {
+				System.out.println("Extracting All Movelists...");
+				for(String game : games) {
+					extract(game);
+				}
 			}
-			movelists.clear();
+			else if(Arrays.asList(games).contains(args[0])){
+				System.out.println("Extracting " + args[0] + "Movelists...");
+				extract(args[0]);
+			}
+			else if(args[0].equalsIgnoreCase("help")) {
+				System.out.println("Enter a Tekken game or all to get all movelists.");
+				System.out.println("Recognized games: ");
+				System.out.println(Arrays.toString(games));
+			}
+			else {
+				System.out.println("Game not recognized");
+			}
 		}
+		
+		System.out.println("Extracting tekken6 Movelists...");
+		extract("tekken6");
+		
+	}
+	
+	private static void extract(String game) throws IOException {
+		ArrayList<Movelist> movelists = new ArrayList<Movelist>();
+		for(String character : characters) {
+			Movelist movelist = extractMovelist(game, character);
+			if(movelist != null)
+				movelists.add(movelist);
+			JSONify(game, movelists);
+		}
+		movelists.clear();
 	}
 	
 	public static Movelist extractMovelist(String game, String character) throws IOException {
@@ -144,6 +168,7 @@ public class HtmlExtractor
 		//create file
 		String filename = game + ".JSON";
 		File file = new File(filename);
+		file.delete();
 		file.createNewFile();
 		
 		//contents of JSON file by line
