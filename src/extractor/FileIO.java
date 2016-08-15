@@ -42,8 +42,10 @@ public class FileIO
 			charContents.add(indent + "\"fightingStyle\": \"" + character.fightingStyle + "\",");
 			charContents.add(indent + "\"author\": \"" + author + "\",");
 			charContents.add(indent + "\"copyright\": \"" + copyright + "\",");
+			charContents.add(indent + "\"arts\": [");
+			indent += "\t";
 			for(int i=0; i<titles.size(); i++) {
-				charContents.add(indent + "\"" + titles.get(i) + "\": {");
+				charContents.add(indent + "{");
 				charContents.add(indent + "\t\"art\": \"" + titles.get(i) + "\",");
 				charContents.add(indent + "\t\"header\": [");
 				for(int j=0; j<headers.get(i).size(); j++) {	//header
@@ -88,6 +90,7 @@ public class FileIO
 				else
 					charContents.add(indent + "},");
 			}
+			charContents.add("\t\t\t]");
 			if(a == movelists.size()-1)
 				charContents.add("\t\t}");
 			else
