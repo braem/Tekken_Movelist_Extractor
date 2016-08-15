@@ -10,6 +10,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -33,6 +34,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -59,6 +61,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -149,6 +152,7 @@
 				]
 			},
 			"Single Boot Arts": {
+				"art": "Single Boot Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -168,6 +172,7 @@
 				]
 			},
 			"Destroy Form Arts": {
+				"art": "Destroy Form Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -202,6 +207,7 @@
 				]
 			},
 			"Dual Boot Arts": {
+				"art": "Dual Boot Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -223,6 +229,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -240,6 +247,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -263,6 +271,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -287,6 +296,7 @@
 				]
 			},
 			"Multi Throw Arts": {
+				"art": "Multi Throw Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -310,6 +320,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -338,6 +349,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -455,6 +467,7 @@
 				]
 			},
 			"Chaos Judgment Arts": {
+				"art": "Chaos Judgment Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -482,6 +495,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -498,6 +512,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -525,6 +540,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -562,6 +578,7 @@
 				]
 			},
 			"Ground Grappling Arts": {
+				"art": "Ground Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -585,6 +602,7 @@
 				]
 			},
 			"Multi Throw Arts": {
+				"art": "Multi Throw Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -607,6 +625,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -632,6 +651,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -721,6 +741,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -745,6 +766,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -769,6 +791,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -800,6 +823,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -826,6 +850,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -934,6 +959,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -949,6 +975,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -973,6 +1000,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -996,6 +1024,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1022,6 +1051,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1136,6 +1166,7 @@
 				]
 			},
 			"Flamingo Arts": {
+				"art": "Flamingo Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1167,6 +1198,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1184,6 +1216,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -1209,6 +1242,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -1231,6 +1265,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1257,6 +1292,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1364,6 +1400,7 @@
 				]
 			},
 			"Spinning Ball Arts": {
+				"art": "Spinning Ball Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1383,6 +1420,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1401,6 +1439,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -1424,6 +1463,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -1444,6 +1484,7 @@
 				]
 			},
 			"Multi Throw Arts": {
+				"art": "Multi Throw Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -1467,6 +1508,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1493,6 +1535,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1584,6 +1627,7 @@
 				]
 			},
 			"Muay Thai Arts": {
+				"art": "Muay Thai Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1603,6 +1647,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1618,6 +1663,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -1642,6 +1688,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -1663,6 +1710,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1691,6 +1739,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1810,6 +1859,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1826,6 +1876,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -1852,6 +1903,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -1879,6 +1931,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -1905,6 +1958,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2026,6 +2080,7 @@
 				]
 			},
 			"Handstand Position Arts": {
+				"art": "Handstand Position Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2052,7 +2107,7 @@
 					["   = 3","   = Fire Kick","RLX","24","L","SLD"],
 					["   = 4","   = High Thrust","RLX","32","m","KND"],
 					["f+1,3 [~D]","Roll Out Mirage [RLX]","HSP","7,18","hm","OC"],
-					["1+2","Tuck &amp; Roll","HSP","-","-",""],
+					["1+2","Tuck & Roll","HSP","-","-",""],
 					["f,f+1+2","Headlong Dive","","18","m","KND GB"],
 					["2","Right Flop Punch","RC","12","m",""],
 					[" = 4 [~B]"," = Swirl Kick [HSP]","","12,8","L",""],
@@ -2075,6 +2130,7 @@
 				]
 			},
 			"Rewinder Arts": {
+				"art": "Rewinder Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2108,6 +2164,7 @@
 				]
 			},
 			"Relaxed Position Arts": {
+				"art": "Relaxed Position Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2151,6 +2208,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2166,6 +2224,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -2191,6 +2250,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -2226,6 +2286,7 @@
 				]
 			},
 			"Throw Transition Arts": {
+				"art": "Throw Transition Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -2259,6 +2320,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2282,6 +2344,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2368,6 +2431,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2383,6 +2447,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -2406,6 +2471,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -2437,6 +2503,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2465,6 +2532,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2562,6 +2630,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2585,6 +2654,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -2618,6 +2688,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -2645,6 +2716,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2671,6 +2743,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2792,6 +2865,7 @@
 				]
 			},
 			"Handstand Position Arts": {
+				"art": "Handstand Position Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2818,7 +2892,7 @@
 					["   = 3","   = Fire Kick","RLX","24","L","SLD"],
 					["   = 4","   = High Thrust","RLX","32","m","KND"],
 					["f+1,3 [~D]","Roll Out Mirage [RLX]","HSP","7,18","hm","OC"],
-					["1+2","Tuck &amp; Roll","HSP","-","-",""],
+					["1+2","Tuck & Roll","HSP","-","-",""],
 					["f,f+1+2","Headlong Dive","","18","m","KND GB"],
 					["2","Right Flop Punch","RC","12","m",""],
 					[" = 4 [~B]"," = Swirl Kick [HSP]","","12,8","L",""],
@@ -2841,6 +2915,7 @@
 				]
 			},
 			"Rewinder Arts": {
+				"art": "Rewinder Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2874,6 +2949,7 @@
 				]
 			},
 			"Relaxed Position Arts": {
+				"art": "Relaxed Position Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2917,6 +2993,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -2932,6 +3009,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -2957,6 +3035,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -2980,6 +3059,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3005,6 +3085,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3101,6 +3182,7 @@
 				]
 			},
 			"Kenpo Step Arts": {
+				"art": "Kenpo Step Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3122,6 +3204,7 @@
 				]
 			},
 			"Shifting Clouds Arts": {
+				"art": "Shifting Clouds Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3143,6 +3226,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3158,6 +3242,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -3182,6 +3267,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -3205,6 +3291,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3233,6 +3320,7 @@
 				]
 			},
 			"Throw Shift Arts": {
+				"art": "Throw Shift Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -3258,6 +3346,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3354,6 +3443,7 @@
 				]
 			},
 			"Sumo Sit Down": {
+				"art": "Sumo Sit Down",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3380,6 +3470,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3405,6 +3496,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -3427,6 +3519,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -3455,6 +3548,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3483,6 +3577,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3580,6 +3675,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3598,6 +3694,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -3624,6 +3721,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -3636,7 +3734,7 @@
 					["LFF (1+3_F+1+3)","Pick Pocket","Front","35","2",""],
 					["LFF (2+4_F+2+4)","Falcon Dive Kick","Front","35","2",""],
 					["RFF (1+3_2+4)","Anti Sub Rocket","Front","50","1+2","#1"],
-					["f,f+2","Roll &amp; Choke","Front","40","2",""],
+					["f,f+2","Roll & Choke","Front","40","2",""],
 					["qcb+3","Demon Heel","Front","45","1",""],
 					["d/b+1+3","Leg Hook","Front","40","1+2",""],
 					["f+2+3","Human Cannonball","Front","40","1+2",""],
@@ -3650,6 +3748,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3676,6 +3775,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3724,6 +3824,7 @@
 				]
 			},
 			"Left Foot Forward Arts": {
+				"art": "Left Foot Forward Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3788,6 +3889,7 @@
 				]
 			},
 			"Right Foot Forward Arts": {
+				"art": "Right Foot Forward Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3838,6 +3940,7 @@
 				]
 			},
 			"Left Flamingo Arts": {
+				"art": "Left Flamingo Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3876,6 +3979,7 @@
 				]
 			},
 			"Right Flamingo Arts": {
+				"art": "Right Flamingo Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3914,6 +4018,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -3931,6 +4036,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -3954,6 +4060,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -3989,6 +4096,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4018,6 +4126,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4122,6 +4231,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4145,6 +4255,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -4172,6 +4283,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -4197,6 +4309,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4223,6 +4336,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4324,6 +4438,7 @@
 				]
 			},
 			"Crouching Demon Arts": {
+				"art": "Crouching Demon Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4347,6 +4462,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4362,6 +4478,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -4384,6 +4501,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -4412,6 +4530,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4441,6 +4560,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4545,6 +4665,7 @@
 				]
 			},
 			"Evasive Spin Arts": {
+				"art": "Evasive Spin Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4564,6 +4685,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4579,6 +4701,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -4604,6 +4727,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -4629,6 +4753,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4657,6 +4782,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4739,6 +4865,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4755,6 +4882,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -4780,6 +4908,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -4848,6 +4977,7 @@
 				]
 			},
 			"Ground Grappling Arts": {
+				"art": "Ground Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -4876,6 +5006,7 @@
 				]
 			},
 			"Multi Throw Arts": {
+				"art": "Multi Throw Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -4955,6 +5086,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -4982,6 +5114,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5080,6 +5213,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5100,6 +5234,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -5127,6 +5262,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -5150,6 +5286,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5180,6 +5317,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5269,6 +5407,7 @@
 				]
 			},
 			"Bear Sit Down Arts": {
+				"art": "Bear Sit Down Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5288,6 +5427,7 @@
 				]
 			},
 			"Hunting Bear Stance Arts": {
+				"art": "Hunting Bear Stance Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5323,6 +5463,7 @@
 				]
 			},
 			"Prowling Grizzly Roll Arts": {
+				"art": "Prowling Grizzly Roll Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5344,6 +5485,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5366,6 +5508,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -5390,6 +5533,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -5414,6 +5558,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5442,6 +5587,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5519,6 +5665,7 @@
 				]
 			},
 			"Silent Entry Arts": {
+				"art": "Silent Entry Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5536,6 +5683,7 @@
 				]
 			},
 			"Dynamic Entry Arts": {
+				"art": "Dynamic Entry Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5545,7 +5693,7 @@
 					"Properties"
 				],
 				"moves": [
-					["1 [~F]","Lock &amp; Load [SEN]","","16","h",""],
+					["1 [~F]","Lock & Load [SEN]","","16","h",""],
 					[" = 2"," = Double Barrel","","24","h","KND"],
 					[" = :2"," = Triple Barrel","","16,24","hh","KND"],
 					["1+2","Mjollnir","","24","m","BN B!"],
@@ -5555,6 +5703,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5570,6 +5719,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -5595,6 +5745,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -5616,6 +5767,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5644,6 +5796,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5751,6 +5904,7 @@
 				]
 			},
 			"Hit Man Arts": {
+				"art": "Hit Man Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5782,6 +5936,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5801,6 +5956,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -5823,6 +5979,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -5850,6 +6007,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5879,6 +6037,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -5997,6 +6156,7 @@
 				]
 			},
 			"Back Turned Arts": {
+				"art": "Back Turned Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6031,6 +6191,7 @@
 				]
 			},
 			"Play Dead Position Arts": {
+				"art": "Play Dead Position Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6059,6 +6220,7 @@
 				]
 			},
 			"Knock Down Position Arts": {
+				"art": "Knock Down Position Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6084,6 +6246,7 @@
 				]
 			},
 			"Face Down Position Arts": {
+				"art": "Face Down Position Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6114,6 +6277,7 @@
 				]
 			},
 			"Slide Position Arts": {
+				"art": "Slide Position Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6139,6 +6303,7 @@
 				]
 			},
 			"Art Of Snake": {
+				"art": "Art Of Snake",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6169,6 +6334,7 @@
 				]
 			},
 			"Art Of Dragon": {
+				"art": "Art Of Dragon",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6199,6 +6365,7 @@
 				]
 			},
 			"Art Of Panther": {
+				"art": "Art Of Panther",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6227,6 +6394,7 @@
 				]
 			},
 			"Art Of Tiger": {
+				"art": "Art Of Tiger",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6236,7 +6404,7 @@
 					"Properties"
 				],
 				"moves": [
-					["F","Auto High &amp; Mid Parry","","-","-",""],
+					["F","Auto High & Mid Parry","","-","-",""],
 					["1","Tiger Strike","","26","m","OCb OC BNc B!"],
 					["1+2 New","Double Tiger Palms","","38","m","MS"],
 					["2","Tiger Claw Palm","","28","m","MS CFSc"],
@@ -6253,6 +6421,7 @@
 				]
 			},
 			"Art Of Crane": {
+				"art": "Art Of Crane",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6277,6 +6446,7 @@
 				]
 			},
 			"Drunken Style Arts": {
+				"art": "Drunken Style Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6311,6 +6481,7 @@
 				]
 			},
 			"Art Of Phoenix": {
+				"art": "Art Of Phoenix",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6340,6 +6511,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6355,6 +6527,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -6380,6 +6553,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -6402,6 +6576,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6428,6 +6603,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6517,6 +6693,7 @@
 				]
 			},
 			"Kinkei Stance": {
+				"art": "Kinkei Stance",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6538,6 +6715,7 @@
 				]
 			},
 			"Bokuho Stance": {
+				"art": "Bokuho Stance",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6558,6 +6736,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6573,6 +6752,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -6597,6 +6777,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -6620,6 +6801,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6646,6 +6828,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6732,6 +6915,7 @@
 				]
 			},
 			"Back Turned Arts": {
+				"art": "Back Turned Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6754,6 +6938,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6769,6 +6954,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -6793,6 +6979,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -6820,6 +7007,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6847,6 +7035,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6946,6 +7135,7 @@
 				]
 			},
 			"Rain Dance Stance Arts": {
+				"art": "Rain Dance Stance Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -6988,6 +7178,7 @@
 				]
 			},
 			"Art Of Phoenix": {
+				"art": "Art Of Phoenix",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7029,6 +7220,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7051,6 +7243,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -7075,6 +7268,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -7100,6 +7294,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7127,6 +7322,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7240,6 +7436,7 @@
 				]
 			},
 			"Tricky Fake Step Arts": {
+				"art": "Tricky Fake Step Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7264,6 +7461,7 @@
 				]
 			},
 			"Dragon Sign Stance Arts": {
+				"art": "Dragon Sign Stance Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7295,6 +7493,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7312,6 +7511,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -7341,6 +7541,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -7362,6 +7563,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7388,6 +7590,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7456,6 +7659,7 @@
 				]
 			},
 			"Savage Arts": {
+				"art": "Savage Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7493,6 +7697,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7508,6 +7713,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -7530,6 +7736,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -7556,6 +7763,7 @@
 				]
 			},
 			"Multi Throw Arts": {
+				"art": "Multi Throw Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -7602,6 +7810,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7630,6 +7839,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7765,6 +7975,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7781,6 +7992,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -7806,6 +8018,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -7829,6 +8042,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7859,6 +8073,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7948,6 +8163,7 @@
 				]
 			},
 			"Bear Sit Down Arts": {
+				"art": "Bear Sit Down Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -7967,6 +8183,7 @@
 				]
 			},
 			"Hunting Bear Stance Arts": {
+				"art": "Hunting Bear Stance Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8002,6 +8219,7 @@
 				]
 			},
 			"Prowling Grizzly Roll Arts": {
+				"art": "Prowling Grizzly Roll Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8023,6 +8241,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8045,6 +8264,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -8069,6 +8289,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -8103,6 +8324,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8134,6 +8356,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8212,6 +8435,7 @@
 				]
 			},
 			"Sway Arts": {
+				"art": "Sway Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8232,6 +8456,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8247,6 +8472,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -8272,6 +8498,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -8299,6 +8526,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8325,6 +8553,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8442,6 +8671,7 @@
 				]
 			},
 			"Shadow Stance Arts": {
+				"art": "Shadow Stance Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8484,6 +8714,7 @@
 				]
 			},
 			"Haze Arts": {
+				"art": "Haze Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8507,6 +8738,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8527,6 +8759,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -8550,6 +8783,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -8576,6 +8810,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8604,6 +8839,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8690,6 +8926,7 @@
 				]
 			},
 			"Rocket Stance": {
+				"art": "Rocket Stance",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8714,6 +8951,7 @@
 				]
 			},
 			"Animal Kick Stance": {
+				"art": "Animal Kick Stance",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8737,6 +8975,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8752,6 +8991,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -8776,6 +9016,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -8800,6 +9041,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8879,6 +9121,7 @@
 				]
 			},
 			"Albatross Spin Arts": {
+				"art": "Albatross Spin Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8900,6 +9143,7 @@
 				]
 			},
 			"Left Weave Arts": {
+				"art": "Left Weave Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8920,6 +9164,7 @@
 				]
 			},
 			"Right Weave Arts": {
+				"art": "Right Weave Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8938,6 +9183,7 @@
 				]
 			},
 			"Ducking Arts": {
+				"art": "Ducking Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8965,6 +9211,7 @@
 				]
 			},
 			"Sway Arts": {
+				"art": "Sway Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -8982,6 +9229,7 @@
 				]
 			},
 			"Flicker Arts": {
+				"art": "Flicker Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9005,6 +9253,7 @@
 				]
 			},
 			"Peekaboo Arts": {
+				"art": "Peekaboo Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9038,6 +9287,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9053,6 +9303,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -9079,6 +9330,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -9101,6 +9353,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9126,6 +9379,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9208,6 +9462,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9226,6 +9481,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -9250,6 +9506,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -9274,6 +9531,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9300,6 +9558,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9430,6 +9689,7 @@
 				]
 			},
 			"Indian Sit Arts": {
+				"art": "Indian Sit Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9458,6 +9718,7 @@
 				]
 			},
 			"Dragonfly Arts": {
+				"art": "Dragonfly Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9479,6 +9740,7 @@
 				]
 			},
 			"Meditation Arts": {
+				"art": "Meditation Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9508,6 +9770,7 @@
 				]
 			},
 			"Flea Arts": {
+				"art": "Flea Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9539,6 +9802,7 @@
 				]
 			},
 			"Kincho Arts": {
+				"art": "Kincho Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9565,6 +9829,7 @@
 				]
 			},
 			"No Sword Stance Arts": {
+				"art": "No Sword Stance Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9601,6 +9866,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9643,6 +9909,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
@@ -9673,6 +9940,7 @@
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
+				"art": "Grappling Arts",
 				"header": [
 					"Command",
 					"Throw Name",
@@ -9694,6 +9962,7 @@
 				]
 			},
 			"Basic Arts": {
+				"art": "Basic Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9719,6 +9988,7 @@
 				]
 			},
 			"Special Arts": {
+				"art": "Special Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9794,6 +10064,7 @@
 				]
 			},
 			"Tarantula Arts": {
+				"art": "Tarantula Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9819,6 +10090,7 @@
 				]
 			},
 			"Mantis Arts": {
+				"art": "Mantis Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9853,6 +10125,7 @@
 				]
 			},
 			"Scarecrow Arts": {
+				"art": "Scarecrow Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9887,6 +10160,7 @@
 				]
 			},
 			"Unblockable Arts": {
+				"art": "Unblockable Arts",
 				"header": [
 					"Command",
 					"Move Name",
@@ -9902,6 +10176,7 @@
 				]
 			},
 			"String Hit Arts": {
+				"art": "String Hit Arts",
 				"header": [
 					"Command",
 					"Hits",
