@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Movelist
 {
 	String									game;
-	String									character;
+	Char									character;
 	String 									author;
 	String 									copyright;
 	ArrayList<String> 						titles;
@@ -13,7 +13,7 @@ public class Movelist
 	ArrayList<ArrayList<ArrayList<String>>> moves;
 	ArrayList<ArrayList<String>> 			footnotes;
 	
-	public Movelist(String game, String character, String author, String copyright, ArrayList<String> titles,
+	public Movelist(String game, Char character, String author, String copyright, ArrayList<String> titles,
 			ArrayList<ArrayList<String>> headers, ArrayList<ArrayList<ArrayList<String>>> moves, 
 			ArrayList<ArrayList<String>> footnotes) {
 		

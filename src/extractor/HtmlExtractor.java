@@ -1,8 +1,6 @@
 package extractor;
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -15,35 +13,24 @@ import java.util.Arrays;
 
 public class HtmlExtractor
 {
-	final static String[] games = { "tekken6", "tekken5dr", "tekken5", "tekken4", "tekkentag", "tekken3" };
-	final static String[] characters = { "akuma", "alex", "alisa", "ancientogre", "angel", "anna", "armorking",
-			"asuka", "azazel", "baek", "bob", "bruce", "bryan", "christie", "claudio", "combot", "marduk",
-			"crow", "devil", "devilkazuya", "devilkazumi", "Dr._Bosconovitch", "eddy", "feng", "forest", "ganryu",
-			"gigas", "gon", "gunjack", "heihachi", "hwoarang", "jack1", "jack2", "jack3", "jack4", "jack5", "jack6",
-			"jack7", "jin", "jinpachi", "josie", "julia", "jun", "katarina", "kazumi", "kazuya", "king", "kuma",
-			"kunimitsu", "lars", "lee", "lei", "leo", "lili", "ling", "luckychloe", "marshall", "masterraven",
-			"michelle", "miguel", "miharu", "mokujin", "NANCY-MI847J", "nina", "panda", "paul", "prototype", 
-			"raven", "roger", "rogerjr", "shaheen", "sebastian", "dragunov", "slim_bob", "steve", "tiger", "trueogre",
-			"violet", "wang", "yoshimitsu", "zafina"
-	};
-	
 	public static void main (String[] args) throws IOException {
 
+		ArrayList<Char> characters = GameInfo.createCharacters();	//create characters	
 		if(args.length == 1) { 
 			if(args[0] == "all") {
 				System.out.println("Extracting All Movelists...");
-				for(String game : games) {
-					extract(game);
+				for(String game : GameInfo.games) {
+					extract(game, characters);
 				}
 			}
-			else if(Arrays.asList(games).contains(args[0])){
+			else if(Arrays.asList(GameInfo.games).contains(args[0])){
 				System.out.println("Extracting " + args[0] + "Movelists...");
-				extract(args[0]);
+				extract(args[0], characters);
 			}
 			else if(args[0].equalsIgnoreCase("help")) {
 				System.out.println("Enter a Tekken game or all to get all movelists.");
 				System.out.println("Recognized games: ");
-				System.out.println(Arrays.toString(games));
+				System.out.println(Arrays.toString(GameInfo.games));
 			}
 			else {
 				System.out.println("Game not recognized");
@@ -51,23 +38,23 @@ public class HtmlExtractor
 		}
 		
 		System.out.println("Extracting tekken6 Movelists...");
-		extract("tekken6");
+		extract("tekken6", characters);
 		
 	}
 	
-	private static void extract(String game) throws IOException {
+	private static void extract(String game, ArrayList<Char> characters) throws IOException {
 		ArrayList<Movelist> movelists = new ArrayList<Movelist>();
-		for(String character : characters) {
+		for(Char character : characters) {
 			Movelist movelist = extractMovelist(game, character);
 			if(movelist != null)
 				movelists.add(movelist);
-			JSONify(game, movelists);
+			FileIO.writeToFile(game, movelists);
 		}
 		movelists.clear();
 	}
 	
-	public static Movelist extractMovelist(String game, String character) throws IOException {
-		URL url 			= new URL ("http://www.tekkenzaibatsu.com/" + game + "/movelist.php?id=" + character);
+	public static Movelist extractMovelist(String game, Char character) throws IOException {
+		URL url 			= new URL ("http://www.tekkenzaibatsu.com/" + game + "/movelist.php?id=" + character.id);
 
 		//check if page exists
 		try {
@@ -162,97 +149,6 @@ public class HtmlExtractor
 		isr.close();
 		br.close();
 		return new Movelist(game, character, author, copyright, titles, headers, moves, footnotes);
-	}
-	
-	public static void JSONify(String game, ArrayList<Movelist> movelists) throws IOException {
-		//create file
-		String filename = game + ".JSON";
-		File file = new File(filename);
-		file.delete();
-		file.createNewFile();
-		
-		//contents of JSON file by line
-		ArrayList<String> charContents = new ArrayList<String>();
-		charContents.add("{");
-		charContents.add("\t\"game\": \"" + game + "\",");
-		charContents.add("\t\"movelists\": [");
-
-		//character-movelist data
-		for(int a=0; a<movelists.size(); a++) {
-			Movelist movelist = movelists.get(a);
-			charContents.add("\t\t{");
-			
-			String									character 	= movelist.character;
-			String 									author		= movelist.author;
-			String 									copyright	= movelist.copyright;
-			ArrayList<String> 						titles		= movelist.titles;
-			ArrayList<ArrayList<String>> 			headers		= movelist.headers;
-			ArrayList<ArrayList<ArrayList<String>>> moves		= movelist.moves;
-			ArrayList<ArrayList<String>> 			footnotes	= movelist.footnotes;
-			
-			String indent = "\t\t\t";
-			charContents.add(indent + "\"name\": \"" + character + "\",");
-			charContents.add(indent + "\"author\": \"" + author + "\",");
-			charContents.add(indent + "\"copyright\": \"" + copyright + "\",");
-			for(int i=0; i<titles.size(); i++) {
-				charContents.add(indent + "\"" + titles.get(i) + "\": {");
-				charContents.add(indent + "\t\"header\": [");
-				for(int j=0; j<headers.get(i).size(); j++) {	//header
-					String c = indent + "\t\t\"" + headers.get(i).get(j) + "\"";
-					if(j != headers.get(i).size()-1)
-						c += ",";
-					charContents.add(c);
-				}
-				charContents.add(indent + "\t],");
-				charContents.add(indent + "\t\"moves\": [");
-				
-				for(int j=0; j<moves.get(i).size(); j++) {
-					String c = indent + "\t\t[";
-					for(int k=0; k<moves.get(i).get(j).size(); k++) {
-						c += "\"" + moves.get(i).get(j).get(k) + "\"";
-						if(k != moves.get(i).get(j).size()-1)
-							c += ",";
-					}
-					c += "]";
-					if(j != moves.get(i).size()-1)
-						c += ",";
-					charContents.add(c);
-				}
-				charContents.add(indent + "\t],");
-				
-				//footnotes
-				try {
-					charContents.add(indent + "\t\"footnotes\": [");
-					for(int j=0; j<footnotes.get(i).size(); j++) {
-						String c = indent + "\t\t\"" + footnotes.get(i).get(j) + "\"";
-						if(j != footnotes.get(i).size()-1) 
-							c += ",";
-						charContents.add(c);
-					}
-					charContents.add(indent + "\t]");
-				} catch(NullPointerException e) {
-					charContents.add(indent + "\t]");
-				}
-				
-				if(i == titles.size()-1)
-					charContents.add(indent + "}");
-				else
-					charContents.add(indent + "},");
-			}
-			if(a == movelists.size()-1)
-				charContents.add("\t\t}");
-			else
-				charContents.add("\t\t},");
-		}
-		charContents.add("\t]");
-		charContents.add("}");
-		
-		//write to JSON file
-		FileWriter fw = new FileWriter(file);
-		for(String c : charContents)
-			fw.write(c + "\n");
-		fw.flush();
-		fw.close();
 	}
 	
 	private static ArrayList<String> fillFromBuffer(BufferedReader br) throws IOException {
