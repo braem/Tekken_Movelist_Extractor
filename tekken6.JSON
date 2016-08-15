@@ -2,7 +2,11 @@
 	"game": "tekken6",
 	"movelists": [
 		{
-			"name": "alisa",
+			"name": "Alisa",
+			"fullname": "Alisa Bosconovitch",
+			"sex": "Female",
+			"origin": "Russia",
+			"fightingStyle": "Unique Humanoid-Cyborg Combat",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -251,7 +255,11 @@
 			}
 		},
 		{
-			"name": "anna",
+			"name": "Anna",
+			"fullname": "Anna Williams",
+			"sex": "Female",
+			"origin": "Ireland",
+			"fightingStyle": "Koppo Assassination Arts based in Aikido",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -509,7 +517,11 @@
 			}
 		},
 		{
-			"name": "armorking",
+			"name": "Armor King",
+			"fullname": "Armor King",
+			"sex": "Male",
+			"origin": "Unknown",
+			"fightingStyle": "Pro Wrestling",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -749,7 +761,11 @@
 			}
 		},
 		{
-			"name": "asuka",
+			"name": "Asuka",
+			"fullname": "Asuka Kazama",
+			"sex": "Female",
+			"origin": "Japan",
+			"fightingStyle": "Kazama Style Traditional Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -949,7 +965,11 @@
 			}
 		},
 		{
-			"name": "baek",
+			"name": "Baek",
+			"fullname": "Baek Doo San",
+			"sex": "Male",
+			"origin": "Korea",
+			"fightingStyle": "Tae Kwon Do",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -1181,7 +1201,11 @@
 			}
 		},
 		{
-			"name": "bob",
+			"name": "Bob",
+			"fullname": "Bob Richard",
+			"sex": "Male",
+			"origin": "USA",
+			"fightingStyle": "Free Style Karate",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -1392,7 +1416,11 @@
 			}
 		},
 		{
-			"name": "bruce",
+			"name": "Bruce",
+			"fullname": "Bruce Irvin",
+			"sex": "Male",
+			"origin": "USA",
+			"fightingStyle": "Muay Thai Kickboxing",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -1606,7 +1634,11 @@
 			}
 		},
 		{
-			"name": "bryan",
+			"name": "Bryan",
+			"fullname": "Bryan Fury",
+			"sex": "Male",
+			"origin": "USA",
+			"fightingStyle": "Kickboxing",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -1812,7 +1844,11 @@
 			}
 		},
 		{
-			"name": "christie",
+			"name": "Christie",
+			"fullname": "Christie Monteiro",
+			"sex": "Female",
+			"origin": "Brazil",
+			"fightingStyle": "Capoeira",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -2147,7 +2183,438 @@
 			}
 		},
 		{
-			"name": "eddy",
+			"name": "Dragunov",
+			"fullname": "Sergei Dragunov",
+			"sex": "Male",
+			"origin": "Russia",
+			"fightingStyle": "Combat Sambo",
+			"author": "Castel",
+			"copyright": "1999-2016 Tekken Zaibatsu",
+			"Grappling Arts": {
+				"header": [
+					"Command",
+					"Throw Name",
+					"Type",
+					"Damage",
+					"Escape",
+					"Properties"
+				],
+				"moves": [
+					["(1+3_f+1+3)","Volk Clutch","Front","35","1",""],
+					["(2+4_f+2+4)","Air Plane Spin","Front","35","2",""],
+					["f,f+1+2","Blizzard Rush","Front","45","1+2","F!"],
+					["d/b+1+2","Tundra Tackle","Front","5","1+2","TC"],
+					[" = (~1_~2_~3_~4) New"," = Tundra Roll","","-","-","RC"],
+					[" = 1"," = Blizzard Sleeper","","30","1",""],
+					[" = 1+2"," = Hammer Rush","","35","1+2",""],
+					[" = 2"," = Achilles Hold","","30","2",""],
+					["f+1+4","Reverse Victor Clutch","Front","40","1",""],
+					["f+2+3","Victor Clutch","Front","40","2",""],
+					["u/f+3+4","Scorpion Scissors","Front","36","None","#1"],
+					["FCD_SLD 1+2,1+2 New","Hug of Death","Front","40","",""],
+					["d+(1+3_2+4)","Cold Fate","Crouch","45","1",""],
+					["d/f+1+2 New","Pit Fall","","","","#2"],
+					["b+(1+3_2+4)","Red Alert","","","","#3"],
+					["[F+] (1+3_2+4)","Tarantula Twist","Left","40","1",""],
+					["[F+] (1+3_2+4)","Reverse Arm Bar","Right","40","2",""],
+					["[F+] (1+3_2+4)","Absolute Silence","Back","50","None",""]
+				],
+				"footnotes": [
+					"#1 Can be avoided by ducking, Dragunov ends in KND when the throw is avoided",
+					"#2 Low and Special Mid attack reversal, damage and escape depends on the attack",
+					"#3 High and mid attack reversal, damage and escape depends on the attack"
+				]
+			},
+			"Throw Transition Arts": {
+				"header": [
+					"Command",
+					"Throw Name",
+					"Type",
+					"Damage",
+					"Escape",
+					"Properties"
+				],
+				"moves": [
+					["1,3,2","Hammer Sickle","","8,16","",""],
+					[" = 1+2"," = Feint Catch","Front","35","1+2","#1"],
+					["   = ~B","   = Throw Shift Cancel","","-","",""],
+					["f,f+2","Russian Sickle","","","",""],
+					[" = 1+2"," = Feint Catch","Front","35","1+2","#1"],
+					["   = ~B","   = Throw Shift Cancel","","-","",""],
+					["b+2,1,3","Gouge Stingray","","16,13","",""],
+					[" = 1+2"," = Cold Fate","Crouch","45","1+2",""],
+					["SS+2,1+2","Integral Takedown","","19,9,14","",""],
+					[" = 1+2"," = Tundra Tackle","Front","5","1+2","#2"],
+					["d/b+3","Clipping Sweep","","","",""],
+					[" = 1+2"," = Cold Fate","Crouch","45","1+2","#1"],
+					["b+4,2","Death March","","18,18","",""],
+					[" = 1+2"," = Tundra Tackle","Front","5","1+2","#2"],
+					["qcf+4","Knee Trap","Front","30,10","",""],
+					[" = 1,3,4,2"," = Pinpoint Fracture","","20","1",""],
+					[" = 2,4,3,1"," = Pinpoint Fracture","","20","2",""]
+				],
+				"footnotes": [
+					"#1 The throw shift cancels the last hit of the string",
+					"#2 Continue with Tundra Tackle extensions"
+				]
+			},
+			"Basic Arts": {
+				"header": [
+					"Command",
+					"Move Name",
+					"Stance",
+					"Damage",
+					"Hit Range",
+					"Properties"
+				],
+				"moves": [
+					["1","Tundra Jab","","8","h",""],
+					["f+1","Forward Jab","","8","h",""],
+					["FC+1","Crouch Jab","RC","6","s",""],
+					["2","Straight","","12","h",""],
+					["FC+2","Crouch Straight","RC","9","s",""],
+					["3","Lateral Kick","","12","h",""],
+					["FC+3","Crouch Spin Kick","RC","14","L",""],
+					["4","Swipe Kick","","18","h",""],
+					["FC+4","Crouch Shin Kick","RC","12","l",""]
+				],
+				"footnotes": [
+				]
+			},
+			"Special Arts": {
+				"header": [
+					"Command",
+					"Move Name",
+					"Stance",
+					"Damage",
+					"Hit Range",
+					"Properties"
+				],
+				"moves": [
+					["1","Tundra Jab","","8","h",""],
+					[" = 1<3"," = Gouge Hilt","","9,26","hm","KND"],
+					[" = 2,1"," = Salvo","","12,24","mm","SLD CFc"],
+					[" = 3,2"," = Hammer Sickle","","16,26","hm","SLD B!"],
+					["d/f+1<4 New","Switchblade Ripper","","15,25","mh","PLD"],
+					["d+1","Skinner Elbow","","21","m","KS SLDc OCb B!"],
+					["b+1","Eye Blast","","21","h","SHc"],
+					["WS+1,3","Double Hilt","","14,24","mm","KND"],
+					["qcf+1 New","Cock Hammer","","24","h","CF"],
+					["f+1+2","Scabbard","","24","h","KND"],
+					["b+1+2","Blizzard Hammer","","31","m","GB SLD B!"],
+					["(qcf_WS)+1+2","Frost Charge","","31","m","KND"],
+					["2,1","Twin Punch","","12,9","hh",""],
+					[" = 3"," = Scud Kick","","28","h","KND"],
+					[" = 4"," = Mine Kick","","16","L","KS"],
+					["f+2<4","Stun Gun","","19,28","hm","KND CFc"],
+					["f,f+2","Russian Sickle","","26","m","SLD KNDc B!"],
+					["(f,f,f_WR)+2","Russian Assault","","28","m","KND BNc GB B!"],
+					["d/f+2","Scimitar","","16","m","JG"],
+					["d+2","Sharpener","","13","L","KS"],
+					["d/b+2,1,2","Death's Door","","14,12,16","mmm","CF"],
+					["b+2,1,3","Gouge Stingray","","16,13,19","mhL","#2 TTc"],
+					["(u_u/f)+2","Falcon Dive","","21","m","KS SLDc"],
+					["u/b+2","Counter Strike","","21","h","CFc"],
+					["qcf+2","Boost Elbow","","27","m","GB JG"],
+					["qcb+2","Flexible Elbow","","27","m","JG"],
+					["SS+2","Integral","","19","m",""],
+					[" = 1+2"," = Integral Takedown","","9,14","hm","OC"],
+					["   = 4"," = Integral Blitz","","33","h","CS"],
+					[" = 3"," = Integral Slicer","","18","h",""],
+					["WS+2","Proton Upper","","18","m","JG"],
+					["3,1,2 New","Disconnector","","12,9,28","mhm","KND"],
+					["f+3","High Salute","","19","m",""],
+					[" = 2 New"," = Salute Blow","","16","h","KNDc"],
+					[" = 3 New"," = Step Mantis","","16","m","#2 KSc TT"],
+					["f,f+3","Boost Kick","","42","h","KND GB HA"],
+					["d/f+3","Mantis Heel","","19","m","#2 TT OC"],
+					["d+3,4","March Of Tyranny","","15,18","lm","#3 KSc[1] MS"],
+					["(d/b+3_FCD 3)","Clipping Sweep","RC","16,20","l","TTc TC"],
+					["b+3 New","Serrated Edge","","20","h","HA"],
+					["(u/b_u_u/f)+3","Slice Sobat","","25","m","KND TJ"],
+					["qcf+3 New","Slay Ride","","18,20","L","TTc"],
+					["WS+3","Sub Hilt","","25","m","KND"],
+					["WR+3 New","Glacial Hilt","","18,20","L","TT"],
+					["BT d+3","Nail Shooter","","19","l","SLD"],
+					["3+4","Iron Flail","KND","42","h","#4 CS"],
+					["b+3+4","Inertia Kick","","26","h","PLD"],
+					["d+3+4","Morgue Blast","","24","L","#1"],
+					["4","Karnov Kick","","18","h",""],
+					[" = 1 New"," = Karnov Hook","","15","h",""],
+					[" = 3"," = Propeller Kick","","18","h","SLD B!"],
+					[" = 4 New"," = Karnov Avalanche","","33","m","KND JGc"],
+					["f+4","Cougar Kick","","19","h",""],
+					[" = 4"," = Cougar Slash","","16","h","KNDc"],
+					["   = 3 New","   = Neo Cougar","","24","h","KND"],
+					[" = d+4"," = Cougar Maul","","12","L","KS"],
+					["f,f+4","Caterpillar Heel","RC","25","M","KS JGc TJ"],
+					["(f,f,f_WR)+4","Leap Knee Trap","","30,25","m","TT"],
+					["d/f+4","Swift Kick","","16","m",""],
+					["d+4","Shin Kick","","9","L",""],
+					[" = 1,3"," = Separator","","9,25","hh","KND"],
+					[" = 4 New"," = Stiletto","","26","h","KND"],
+					["b+4,2","Death March","","18,18","mm","OC"],
+					[" = 1"," = Ear Shot","","20","h",""],
+					["b+4,3","War Machine","","18,26","mh","KND"],
+					["qcf+4","Knee Trap","","30,10","m","TT"],
+					["FCD_SLD 1+2","Living Dead","","-","-",""],
+					["b,b,u/b","Wall Jump","","25","m",""]
+				],
+				"footnotes": [
+					"#1 Move can only be done when the opponent is grounded",
+					"#2 Does 20 extra points of damage on clean hit throw transition",
+					"#3 Special stumble property on counter, can be tech rolled to recover",
+					"#4 Dragunov can tech roll after this move"
+				]
+			},
+			"Unblockable Arts": {
+				"header": [
+					"Command",
+					"Move Name",
+					"Stance",
+					"Damage",
+					"Hit Range",
+					"Properties"
+				],
+				"moves": [
+					["b+2+3","Sub Zero","","78","!","KND"]
+				],
+				"footnotes": [
+				]
+			},
+			"String Hit Arts": {
+				"header": [
+					"Command",
+					"Hits",
+					"Damage",
+					"Hit Range"
+				],
+				"moves": [
+					["1,3,1,2,4,1+2","6","8,16,12,14,18,28","hhhmMm"],
+					["1,3,1,2,1,1,4,1,3,2","10","8,16,12,14,7,16,6,9,16,28","hhhmmlhhhm"]
+				],
+				"footnotes": [
+				]
+			}
+		},
+		{
+			"name": "Devil Jin",
+			"fullname": "Devil Jin",
+			"sex": "Non-Human",
+			"origin": "Japan",
+			"fightingStyle": "Advanced Mishima Style Karate, Kazama Style Defense",
+			"author": "Castel",
+			"copyright": "1999-2016 Tekken Zaibatsu",
+			"Grappling Arts": {
+				"header": [
+					"Command",
+					"Throw Name",
+					"Type",
+					"Damage",
+					"Escape",
+					"Properties"
+				],
+				"moves": [
+					["(1+3_F+1+3)","Bitch Kicks","Front","35","1",""],
+					["(2+4_F+2+4)","Shoulder Reverse","Front","35","2",""],
+					["f,f+1+2","Stone Head","Front","35","1+2","#1"],
+					["f,hcf+1+2","End Of Dreams","Front","45","1+2",""],
+					["(FC_d_d/b)+1+2","Ultimate Tackle","Front","5","System",""],
+					[" = (1,2,1_2,1,2)"," = Ultimate Punches","","5,5,5","System",""],
+					["   = (1,2_2,1)","   = Ultimate Punches","","5,5","System",""],
+					["   = 1+2","   = Cross Arm Lock","","25","System",""],
+					[" = 1+2"," = Cross Arm Lock","","25","System",""],
+					["qcb+1+3","Complicated Wire","Front","40","1",""],
+					["d/f+2+3","Wrist Chuck Slam","Front","40","2","F!"],
+					["b+(1+3_2+4)","Demon Reverse","","","","#2"],
+					["[F+] (1+3_2+4)","Shoulder Flip","Left","43","1",""],
+					["[F+] (1+3_2+4)","Over the Limit","Right","40","2",""],
+					["[F+] (1+3_2+4)","Chicken Butcher","Back","50","None",""]
+				],
+				"footnotes": [
+					"#1 Opponent can tech roll after the throw, damage remains the same",
+					"#2 High and mid attack reversal, damage and escape depends on the attack"
+				]
+			},
+			"Basic Arts": {
+				"header": [
+					"Command",
+					"Move Name",
+					"Stance",
+					"Damage",
+					"Hit Range",
+					"Properties"
+				],
+				"moves": [
+					["1","Jab","","8","h",""],
+					["f+1","Forward Jab","","8","h",""],
+					["d/b+1","Down Jab","RC","6","s",""],
+					["FC+1","Crouch Jab","RC","6","s",""],
+					["2","Straight","","12","h",""],
+					["d+2","Down Straight","RC","9","s",""],
+					["(u_u/f)+2 New","Axis Punch","","20","h",""],
+					["FC+2","Crouch Straight","RC","9","s",""],
+					["3","Lateral Kick","","19","h",""],
+					["d/b+3","Low Spin Kick","RC","14","L",""],
+					["FC+3","Crouch Spin Kick","RC","14","L",""],
+					["4","Roundhouse","","25","h","KND"],
+					["d+4","Shin Kick","RC","8","l",""],
+					["FC+4","Crouch Shin Kick","RC","12","l",""]
+				],
+				"footnotes": [
+				]
+			},
+			"Special Arts": {
+				"header": [
+					"Command",
+					"Move Name",
+					"Stance",
+					"Damage",
+					"Hit Range",
+					"Properties"
+				],
+				"moves": [
+					["1,1<2","Shining Fists","","8,7,14","hhm","KND"],
+					["1,2","Demon Jabs","","8,9","hh",""],
+					[" = <2"," = Demon Slayer","","14","h",""],
+					[" = 3"," = Shoot the Works","","30","m","GB JG B!"],
+					["   = 4","   = Axe Kick","","36","m","OC B!"],
+					["   = f+4","   = Rising Kick","","12","m",""],
+					[" = 4"," = Steel Knee","","12","m",""],
+					["   = 1+4,2","   = White Heron","","6,9,12","shh","#1"],
+					["     = 4","     = Crescent Kick","","25","m","KS"],
+					["     = d+4","     = Crescent Sweep","","16","L","JG BS"],
+					["   = 3","   = Demon Gate","","25","M","#1 JG OCb"],
+					["f,N,d,D/F+1","Thunder Godfist","","30","m","KND"],
+					[" = ~U/F"," = Hell's Gate","","15","-","#4 TT SLD"],
+					[" = 3"," = Thunder Kick","","18","m","KND"],
+					[" = 4"," = Hell Sweep","","12","L","KND"],
+					["d/f+1<2","Twin Lancer","","13,18","mm","B!"],
+					["d+1","Corpse Thrust","","24","m","KND TC"],
+					["b+1,2 [~B] New","Brimstone Strike [Cancel]","","12,21","hm","KND"],
+					["WS+1,2","Twin Pistons","","14,16","mm",""],
+					["d/f+1+2 New","Aratama Strike","","25","m","KS SLDc B!"],
+					["d+1+2","Hellfire","","20","L","#3"],
+					["b+1+2","Infinite Power","","-","-",""],
+					["B+1+2?","Demon Spear","","18_30_50","m","#2 MS KND"],
+					["1+4,2","White Heron","","6,6,12","shh",""],
+					[" = 4"," = Crescent Kick","","25","m","KS"],
+					[" = d+4"," = Crescent Sweep","","16","L","JG"],
+					["2,2","Demon Slayer","","12,21","hh",""],
+					["f+2","Overhead Shot","","21","m",""],
+					[" = <4"," = Demon Knee","","12","m","CFc"],
+					["f,f+2","Demon Paw","","28","m","KND"],
+					["f,N,d,d/f,2","Wind Godfist","","27","h","JG"],
+					["f,N,d/f+2","Electric Wind Godfist","","27","h","JG GB"],
+					["d/f+2","Gut Upper","","18","m","JGc"],
+					["d/b+2","Fibula Sweep","","19","L","TC"],
+					["b+2,3","Demon PK Combo","","14,20","hh",""],
+					["b+2,4,2<1<2","Demon Fury","","14,12,12,12,28","hhmmm","KND"],
+					["b,f+2<1","Laser Fury","","14,14","mm","DSc[1]"],
+					[" = <2"," = Laser Cannon","","28","m",""],
+					[" = <d+2"," = Laser Scraper","","12","m","SLD"],
+					[" = <4"," = Laser Gate","","25","M","KND"],
+					["u/b+2","Decapitating Sword","","26","h","SLD HA"],
+					["WS+2","Demon Hook","","20","m","JG"],
+					["SS+2","Devil Twister","","30","m","JG"],
+					[" = ~U New","Hell's Gate","","21,20","-","#4 TT PLD"],
+					["(u/b_u_u/f)+2+4","Corpse Splitter","","30_36_42","M","TJ"],
+					["f+3","Spinning Roundhouse","","36","h","KND"],
+					["f,f+3,1","Demon Cyclone","","20,13","mh","CSc"],
+					[" = f,f"," = Cyclone Rewind","","-","-",""],
+					[" = b+1+2 New"," = Cyclone Spear","","-","-",""],
+					[" = B+1+2?"," = Demon Spear","","18_30_50","m","#2 MS KND"],
+					[" = 3"," = Hell Trip","","15","L","JG"],
+					[" = 4"," = Hell Spiral","","26","m","KND CFSc"],
+					["(f,f,f_f,N,d,d/f,u/f_WR)+3","Leaping Slash Kick","","36","m","GB KND TJ"],
+					["f,N,d,d/f+3","Demon Hoof","","25","m","JG TJ"],
+					["f,N,d,D/F+3","Demon Tail","","25","L","SLD TJ"],
+					["d/f+3,2<4 New","Rengoku","","12,9,19","mmm","JG"],
+					[" = ~U New"," = Deity Flight","","-","-",""],
+					["d+3","Ankle Kick","","16","L",""],
+					["b+3 New","Jambu Spear","","28","m","KND"],
+					["u/f+3 New","Repear's Scythe","","25","m","KS JGc OCb TJ B!"],
+					["3+4","Deity Flight","","-","-",""],
+					[" = B"," = Air Block","","-","-",""],
+					[" = 1 New"," = Near Death","","22","h","KND"],
+					[" = 3 New"," = Amara","","36","m","KND B!"],
+					["d+3+4","Can Can Kicks","","6,24","mm","JG TJ"],
+					["4~3","Demon Gate","","25","M","JG TJ"],
+					["f+4,3 New","Twisted Samsara","","12,18","mm","CF"],
+					[" = ~U New"," = Deity Flight","","-","-",""],
+					["f,f+4 New","Last Rites","","33","h","HA PLD"],
+					["f,N,d,D/F+4","Hell Sweep","","14","L","KS PLDc BS"],
+					[" = 4"," = Spinning Demon","","24","m","KS B!"],
+					["(f,N,d,d/f,f_WS)+4,4","Rising Tsunami Kicks","","15,19","mm","OC"],
+					["d/f+4<4","Tsunami Kicks","","12,19","mm","OC"],
+					["b+4","Demon Steel Pedal","","25","M","SLD CFc"],
+					["u+4 New","Samsara","","24","m","KND"],
+					[" = ~U New"," = Deity Flight","","-","-",""],
+					["u/f+4","Flying Soul","","25","m","PLD TJ"],
+					["b,b,u/b","Wall Jump","","25","m","OCb KND"]
+				],
+				"footnotes": [
+					"#1 Previous hit is canceled",
+					"#2 Damage increases as you hold the charge, KND only on maximum charge",
+					"#3 Can only be done when opponent is grounded",
+					"#4 Previous move must hit to transition to throw",
+					""
+				]
+			},
+			"Unblockable Arts": {
+				"header": [
+					"Command",
+					"Move Name",
+					"Stance",
+					"Damage",
+					"Hit Range",
+					"Properties"
+				],
+				"moves": [
+					["1+2","Thunder Crimson Beam","","48","(!)","KND"],
+					[" = (u_d)"," = Directional Shift","","48","(!)","KND"],
+					["(u/f_u_u/b)+1+2","Thunder Crimson Blast","","16","(!)",""],
+					["b+1+4","Demon Destruction","","36","!","KND"],
+					["B+1+4","Lightning Demon Destruction","","72","!","KND"],
+					["3+4","Deity Flight","","-","-",""],
+					[" = 1+2"," = Infernal Destruction","","60","[!]","KND"],
+					[" = f+1+2"," = Cross Infernal Destruction","","60","[!]","KND"],
+					[" = 2 New"," = Infernal Annhilation","","54","[!]","TT"]
+				],
+				"footnotes": [
+				]
+			},
+			"String Hit Arts": {
+				"header": [
+					"Command",
+					"Hits",
+					"Damage",
+					"Hit Range"
+				],
+				"moves": [
+					["f,f,N+2,1,2,2,3,4,4","","12,9,7,8,7,13,6","hhhhmmL"],
+					[" = 1,2,1","10","6,9,36","hmm"],
+					[" = 3,2,1","10","6,30,36","Lm!"],
+					["f,f,N+2,1,4,4,2,4,3,2,1","9","12,9,8,12,6,8,6,30,36","hhmmlmLm!"],
+					["3,2,4,3,1+4,2","","19,7,12,12,8,6,8","hhmhlhh"],
+					[" = 1,3","9","36,24","mm"],
+					[" = 1,4","9","36,14","mL"],
+					[" = 2,1,2","10","12,18,36","mmm"],
+					["b+2,4,4,4,4,2,1+4,2","","14,12,12,9,7,7,6,6,6","hhhLmmlhh"],
+					[" = 1,3","11","36,24","mm"],
+					[" = 1,4","11","36,14","mL"],
+					[" = d+3+4","11","12,25","lh"]
+				],
+				"footnotes": [
+				]
+			}
+		},
+		{
+			"name": "Eddy",
+			"fullname": "Eddy Gordo",
+			"sex": "Male",
+			"origin": "Brazil",
+			"fightingStyle": "Capoeira",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -2482,7 +2949,11 @@
 			}
 		},
 		{
-			"name": "feng",
+			"name": "Feng",
+			"fullname": "Feng Wei",
+			"sex": "Male",
+			"origin": "China",
+			"fightingStyle": "God Fist Style Chinese Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -2703,7 +3174,11 @@
 			}
 		},
 		{
-			"name": "ganryu",
+			"name": "Ganryu",
+			"fullname": "Ganryu",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Sumo Wrestling",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -2944,7 +3419,11 @@
 			}
 		},
 		{
-			"name": "heihachi",
+			"name": "Heihachi",
+			"fullname": "Heihachi Mishima",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Mishima-Style Fighting Karate",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -3137,7 +3616,11 @@
 			}
 		},
 		{
-			"name": "hwoarang",
+			"name": "Hwoarang",
+			"fullname": "Hwoarang",
+			"sex": "Male",
+			"origin": "Korea",
+			"fightingStyle": "Tae Kwon Do",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -3463,7 +3946,11 @@
 			}
 		},
 		{
-			"name": "jack6",
+			"name": "Jack-6",
+			"fullname": "Jack-6",
+			"sex": "Non-Human",
+			"origin": "Russia",
+			"fightingStyle": "Power Fighting / Sheer Force",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -3677,7 +4164,11 @@
 			}
 		},
 		{
-			"name": "jin",
+			"name": "Jin",
+			"fullname": "Jin Kazama",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Advanced Mishima Karate based on Shito-ryu karate combined with Kazama-style Traditional martial arts based on Koryu bujutsu",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -3885,7 +4376,11 @@
 			}
 		},
 		{
-			"name": "julia",
+			"name": "Julia",
+			"fullname": "Julia Chang",
+			"sex": "Female",
+			"origin": "USA",
+			"fightingStyle": "Various Chinese Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -4101,7 +4596,11 @@
 			}
 		},
 		{
-			"name": "kazuya",
+			"name": "Kazuya",
+			"fullname": "Kazuya Mishima",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Advanced Mishima Style Fighting Karate",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -4273,7 +4772,11 @@
 			}
 		},
 		{
-			"name": "king",
+			"name": "King",
+			"fullname": "King",
+			"sex": "Male",
+			"origin": "Mexico",
+			"fightingStyle": "Pro Wrestling",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -4616,7 +5119,11 @@
 			}
 		},
 		{
-			"name": "kuma",
+			"name": "Kuma",
+			"fullname": "Kuma",
+			"sex": "Non-Human",
+			"origin": "Japan",
+			"fightingStyle": "Heihachi Style Advanced Kuma Shin Ken",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -4875,7 +5382,11 @@
 			}
 		},
 		{
-			"name": "lars",
+			"name": "Lars",
+			"fullname": "Lars Alexandersson",
+			"sex": "Male",
+			"origin": "Sweden",
+			"fightingStyle": "Shorinji Karate and Tekken Force Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -5076,7 +5587,11 @@
 			}
 		},
 		{
-			"name": "lee",
+			"name": "Lee",
+			"fullname": "Lee Chaolan",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Jeet Kune Do",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -5300,7 +5815,11 @@
 			}
 		},
 		{
-			"name": "lei",
+			"name": "Lei",
+			"fullname": "Lei Wulong",
+			"sex": "Male",
+			"origin": "China",
+			"fightingStyle": "5 Form Kung Fu and Zui Quan (Drunken Fist)",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -5853,7 +6372,11 @@
 			}
 		},
 		{
-			"name": "leo",
+			"name": "Leo",
+			"fullname": "Leo Kliesen",
+			"sex": "Ambiguous",
+			"origin": "Germany",
+			"fightingStyle": "Bajiquan",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -6066,7 +6589,11 @@
 			}
 		},
 		{
-			"name": "lili",
+			"name": "Lili",
+			"fullname": "Lili De Rochefort",
+			"sex": "Female",
+			"origin": "Monaco",
+			"fightingStyle": "Self-Taught",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -6258,7 +6785,11 @@
 			}
 		},
 		{
-			"name": "ling",
+			"name": "Xiaoyu",
+			"fullname": "Ling Xiaoyu",
+			"sex": "Female",
+			"origin": "China",
+			"fightingStyle": "Various Chinese Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -6536,7 +7067,11 @@
 			}
 		},
 		{
-			"name": "marshall",
+			"name": "Marshall",
+			"fullname": "Marshall Law",
+			"sex": "Male",
+			"origin": "USA",
+			"fightingStyle": "Jeet Kune Do",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -6798,7 +7333,11 @@
 			}
 		},
 		{
-			"name": "miguel",
+			"name": "Miguel",
+			"fullname": "Miguel Caballero Rojo",
+			"sex": "Male",
+			"origin": "Spain",
+			"fightingStyle": "None; Brawling",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -6983,12 +7522,11 @@
 			}
 		},
 		{
-			"name": "mokujin",
-			"author": "Castel",
-			"copyright": "1999-2016 Tekken Zaibatsu",
-		},
-		{
-			"name": "nina",
+			"name": "Nina",
+			"fullname": "Nina Williams",
+			"sex": "Female",
+			"origin": "Ireland",
+			"fightingStyle": "Koppo Assassination Arts based in Aikido",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -7260,7 +7798,11 @@
 			}
 		},
 		{
-			"name": "panda",
+			"name": "Panda",
+			"fullname": "Panda",
+			"sex": "Non-Human",
+			"origin": "China",
+			"fightingStyle": "Heihachi Style Advanced Kuma Shin Ken",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -7519,7 +8061,11 @@
 			}
 		},
 		{
-			"name": "paul",
+			"name": "Paul",
+			"fullname": "Paul Phoenix",
+			"sex": "Male",
+			"origin": "USA",
+			"fightingStyle": "Judo-based Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -7718,7 +8264,11 @@
 			}
 		},
 		{
-			"name": "raven",
+			"name": "Raven",
+			"fullname": "Raven",
+			"sex": "Male",
+			"origin": "Unknown",
+			"fightingStyle": "Ninjitsu",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -7992,7 +8542,11 @@
 			}
 		},
 		{
-			"name": "roger",
+			"name": "Roger",
+			"fullname": "Roger",
+			"sex": "Non-Human",
+			"origin": "Unknown",
+			"fightingStyle": "Commando Wrestling",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -8214,218 +8768,11 @@
 			}
 		},
 		{
-			"name": "dragunov",
-			"author": "Castel",
-			"copyright": "1999-2016 Tekken Zaibatsu",
-			"Grappling Arts": {
-				"header": [
-					"Command",
-					"Throw Name",
-					"Type",
-					"Damage",
-					"Escape",
-					"Properties"
-				],
-				"moves": [
-					["(1+3_f+1+3)","Volk Clutch","Front","35","1",""],
-					["(2+4_f+2+4)","Air Plane Spin","Front","35","2",""],
-					["f,f+1+2","Blizzard Rush","Front","45","1+2","F!"],
-					["d/b+1+2","Tundra Tackle","Front","5","1+2","TC"],
-					[" = (~1_~2_~3_~4) New"," = Tundra Roll","","-","-","RC"],
-					[" = 1"," = Blizzard Sleeper","","30","1",""],
-					[" = 1+2"," = Hammer Rush","","35","1+2",""],
-					[" = 2"," = Achilles Hold","","30","2",""],
-					["f+1+4","Reverse Victor Clutch","Front","40","1",""],
-					["f+2+3","Victor Clutch","Front","40","2",""],
-					["u/f+3+4","Scorpion Scissors","Front","36","None","#1"],
-					["FCD_SLD 1+2,1+2 New","Hug of Death","Front","40","",""],
-					["d+(1+3_2+4)","Cold Fate","Crouch","45","1",""],
-					["d/f+1+2 New","Pit Fall","","","","#2"],
-					["b+(1+3_2+4)","Red Alert","","","","#3"],
-					["[F+] (1+3_2+4)","Tarantula Twist","Left","40","1",""],
-					["[F+] (1+3_2+4)","Reverse Arm Bar","Right","40","2",""],
-					["[F+] (1+3_2+4)","Absolute Silence","Back","50","None",""]
-				],
-				"footnotes": [
-					"#1 Can be avoided by ducking, Dragunov ends in KND when the throw is avoided",
-					"#2 Low and Special Mid attack reversal, damage and escape depends on the attack",
-					"#3 High and mid attack reversal, damage and escape depends on the attack"
-				]
-			},
-			"Throw Transition Arts": {
-				"header": [
-					"Command",
-					"Throw Name",
-					"Type",
-					"Damage",
-					"Escape",
-					"Properties"
-				],
-				"moves": [
-					["1,3,2","Hammer Sickle","","8,16","",""],
-					[" = 1+2"," = Feint Catch","Front","35","1+2","#1"],
-					["   = ~B","   = Throw Shift Cancel","","-","",""],
-					["f,f+2","Russian Sickle","","","",""],
-					[" = 1+2"," = Feint Catch","Front","35","1+2","#1"],
-					["   = ~B","   = Throw Shift Cancel","","-","",""],
-					["b+2,1,3","Gouge Stingray","","16,13","",""],
-					[" = 1+2"," = Cold Fate","Crouch","45","1+2",""],
-					["SS+2,1+2","Integral Takedown","","19,9,14","",""],
-					[" = 1+2"," = Tundra Tackle","Front","5","1+2","#2"],
-					["d/b+3","Clipping Sweep","","","",""],
-					[" = 1+2"," = Cold Fate","Crouch","45","1+2","#1"],
-					["b+4,2","Death March","","18,18","",""],
-					[" = 1+2"," = Tundra Tackle","Front","5","1+2","#2"],
-					["qcf+4","Knee Trap","Front","30,10","",""],
-					[" = 1,3,4,2"," = Pinpoint Fracture","","20","1",""],
-					[" = 2,4,3,1"," = Pinpoint Fracture","","20","2",""]
-				],
-				"footnotes": [
-					"#1 The throw shift cancels the last hit of the string",
-					"#2 Continue with Tundra Tackle extensions"
-				]
-			},
-			"Basic Arts": {
-				"header": [
-					"Command",
-					"Move Name",
-					"Stance",
-					"Damage",
-					"Hit Range",
-					"Properties"
-				],
-				"moves": [
-					["1","Tundra Jab","","8","h",""],
-					["f+1","Forward Jab","","8","h",""],
-					["FC+1","Crouch Jab","RC","6","s",""],
-					["2","Straight","","12","h",""],
-					["FC+2","Crouch Straight","RC","9","s",""],
-					["3","Lateral Kick","","12","h",""],
-					["FC+3","Crouch Spin Kick","RC","14","L",""],
-					["4","Swipe Kick","","18","h",""],
-					["FC+4","Crouch Shin Kick","RC","12","l",""]
-				],
-				"footnotes": [
-				]
-			},
-			"Special Arts": {
-				"header": [
-					"Command",
-					"Move Name",
-					"Stance",
-					"Damage",
-					"Hit Range",
-					"Properties"
-				],
-				"moves": [
-					["1","Tundra Jab","","8","h",""],
-					[" = 1<3"," = Gouge Hilt","","9,26","hm","KND"],
-					[" = 2,1"," = Salvo","","12,24","mm","SLD CFc"],
-					[" = 3,2"," = Hammer Sickle","","16,26","hm","SLD B!"],
-					["d/f+1<4 New","Switchblade Ripper","","15,25","mh","PLD"],
-					["d+1","Skinner Elbow","","21","m","KS SLDc OCb B!"],
-					["b+1","Eye Blast","","21","h","SHc"],
-					["WS+1,3","Double Hilt","","14,24","mm","KND"],
-					["qcf+1 New","Cock Hammer","","24","h","CF"],
-					["f+1+2","Scabbard","","24","h","KND"],
-					["b+1+2","Blizzard Hammer","","31","m","GB SLD B!"],
-					["(qcf_WS)+1+2","Frost Charge","","31","m","KND"],
-					["2,1","Twin Punch","","12,9","hh",""],
-					[" = 3"," = Scud Kick","","28","h","KND"],
-					[" = 4"," = Mine Kick","","16","L","KS"],
-					["f+2<4","Stun Gun","","19,28","hm","KND CFc"],
-					["f,f+2","Russian Sickle","","26","m","SLD KNDc B!"],
-					["(f,f,f_WR)+2","Russian Assault","","28","m","KND BNc GB B!"],
-					["d/f+2","Scimitar","","16","m","JG"],
-					["d+2","Sharpener","","13","L","KS"],
-					["d/b+2,1,2","Death's Door","","14,12,16","mmm","CF"],
-					["b+2,1,3","Gouge Stingray","","16,13,19","mhL","#2 TTc"],
-					["(u_u/f)+2","Falcon Dive","","21","m","KS SLDc"],
-					["u/b+2","Counter Strike","","21","h","CFc"],
-					["qcf+2","Boost Elbow","","27","m","GB JG"],
-					["qcb+2","Flexible Elbow","","27","m","JG"],
-					["SS+2","Integral","","19","m",""],
-					[" = 1+2"," = Integral Takedown","","9,14","hm","OC"],
-					["   = 4"," = Integral Blitz","","33","h","CS"],
-					[" = 3"," = Integral Slicer","","18","h",""],
-					["WS+2","Proton Upper","","18","m","JG"],
-					["3,1,2 New","Disconnector","","12,9,28","mhm","KND"],
-					["f+3","High Salute","","19","m",""],
-					[" = 2 New"," = Salute Blow","","16","h","KNDc"],
-					[" = 3 New"," = Step Mantis","","16","m","#2 KSc TT"],
-					["f,f+3","Boost Kick","","42","h","KND GB HA"],
-					["d/f+3","Mantis Heel","","19","m","#2 TT OC"],
-					["d+3,4","March Of Tyranny","","15,18","lm","#3 KSc[1] MS"],
-					["(d/b+3_FCD 3)","Clipping Sweep","RC","16,20","l","TTc TC"],
-					["b+3 New","Serrated Edge","","20","h","HA"],
-					["(u/b_u_u/f)+3","Slice Sobat","","25","m","KND TJ"],
-					["qcf+3 New","Slay Ride","","18,20","L","TTc"],
-					["WS+3","Sub Hilt","","25","m","KND"],
-					["WR+3 New","Glacial Hilt","","18,20","L","TT"],
-					["BT d+3","Nail Shooter","","19","l","SLD"],
-					["3+4","Iron Flail","KND","42","h","#4 CS"],
-					["b+3+4","Inertia Kick","","26","h","PLD"],
-					["d+3+4","Morgue Blast","","24","L","#1"],
-					["4","Karnov Kick","","18","h",""],
-					[" = 1 New"," = Karnov Hook","","15","h",""],
-					[" = 3"," = Propeller Kick","","18","h","SLD B!"],
-					[" = 4 New"," = Karnov Avalanche","","33","m","KND JGc"],
-					["f+4","Cougar Kick","","19","h",""],
-					[" = 4"," = Cougar Slash","","16","h","KNDc"],
-					["   = 3 New","   = Neo Cougar","","24","h","KND"],
-					[" = d+4"," = Cougar Maul","","12","L","KS"],
-					["f,f+4","Caterpillar Heel","RC","25","M","KS JGc TJ"],
-					["(f,f,f_WR)+4","Leap Knee Trap","","30,25","m","TT"],
-					["d/f+4","Swift Kick","","16","m",""],
-					["d+4","Shin Kick","","9","L",""],
-					[" = 1,3"," = Separator","","9,25","hh","KND"],
-					[" = 4 New"," = Stiletto","","26","h","KND"],
-					["b+4,2","Death March","","18,18","mm","OC"],
-					[" = 1"," = Ear Shot","","20","h",""],
-					["b+4,3","War Machine","","18,26","mh","KND"],
-					["qcf+4","Knee Trap","","30,10","m","TT"],
-					["FCD_SLD 1+2","Living Dead","","-","-",""],
-					["b,b,u/b","Wall Jump","","25","m",""]
-				],
-				"footnotes": [
-					"#1 Move can only be done when the opponent is grounded",
-					"#2 Does 20 extra points of damage on clean hit throw transition",
-					"#3 Special stumble property on counter, can be tech rolled to recover",
-					"#4 Dragunov can tech roll after this move"
-				]
-			},
-			"Unblockable Arts": {
-				"header": [
-					"Command",
-					"Move Name",
-					"Stance",
-					"Damage",
-					"Hit Range",
-					"Properties"
-				],
-				"moves": [
-					["b+2+3","Sub Zero","","78","!","KND"]
-				],
-				"footnotes": [
-				]
-			},
-			"String Hit Arts": {
-				"header": [
-					"Command",
-					"Hits",
-					"Damage",
-					"Hit Range"
-				],
-				"moves": [
-					["1,3,1,2,4,1+2","6","8,16,12,14,18,28","hhhmMm"],
-					["1,3,1,2,1,1,4,1,3,2","10","8,16,12,14,7,16,6,9,16,28","hhhmmlhhhm"]
-				],
-				"footnotes": [
-				]
-			}
-		},
-		{
-			"name": "steve",
+			"name": "Steve",
+			"fullname": "Steve Fox",
+			"sex": "Male",
+			"origin": "United Kingdom",
+			"fightingStyle": "Boxing",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -8724,7 +9071,11 @@
 			}
 		},
 		{
-			"name": "wang",
+			"name": "Wang",
+			"fullname": "Wang Jinrei",
+			"sex": "Male",
+			"origin": "China",
+			"fightingStyle": "Xing Yi",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -8891,7 +9242,11 @@
 			}
 		},
 		{
-			"name": "yoshimitsu",
+			"name": "Yoshimitsu",
+			"fullname": "Yoshimitsu",
+			"sex": "Non-Human",
+			"origin": "None (formerly Japan)",
+			"fightingStyle": "Advanced Manji Ninja Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -9310,7 +9665,11 @@
 			}
 		},
 		{
-			"name": "zafina",
+			"name": "Zafina",
+			"fullname": "Zafina",
+			"sex": "Female",
+			"origin": "Unknown (probably Egypt)",
+			"fightingStyle": "Ancient Assassination Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {

@@ -2,7 +2,11 @@
 	"game": "tekken5",
 	"movelists": [
 		{
-			"name": "anna",
+			"name": "Anna",
+			"fullname": "Anna Williams",
+			"sex": "Female",
+			"origin": "Ireland",
+			"fightingStyle": "Koppo Assassination Arts based in Aikido",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -225,7 +229,11 @@
 			}
 		},
 		{
-			"name": "asuka",
+			"name": "Asuka",
+			"fullname": "Asuka Kazama",
+			"sex": "Female",
+			"origin": "Japan",
+			"fightingStyle": "Kazama Style Traditional Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -438,7 +446,11 @@
 			}
 		},
 		{
-			"name": "baek",
+			"name": "Baek",
+			"fullname": "Baek Doo San",
+			"sex": "Male",
+			"origin": "Korea",
+			"fightingStyle": "Tae Kwon Do",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -634,7 +646,11 @@
 			}
 		},
 		{
-			"name": "bruce",
+			"name": "Bruce",
+			"fullname": "Bruce Irvin",
+			"sex": "Male",
+			"origin": "USA",
+			"fightingStyle": "Muay Thai Kickboxing",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -813,7 +829,11 @@
 			}
 		},
 		{
-			"name": "bryan",
+			"name": "Bryan",
+			"fullname": "Bryan Fury",
+			"sex": "Male",
+			"origin": "USA",
+			"fightingStyle": "Kickboxing",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -998,7 +1018,11 @@
 			}
 		},
 		{
-			"name": "christie",
+			"name": "Christie",
+			"fullname": "Christie Monteiro",
+			"sex": "Female",
+			"origin": "Brazil",
+			"fightingStyle": "Capoeira",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -1316,7 +1340,206 @@
 			}
 		},
 		{
-			"name": "eddy",
+			"name": "Devil Jin",
+			"fullname": "Devil Jin",
+			"sex": "Non-Human",
+			"origin": "Japan",
+			"fightingStyle": "Advanced Mishima Style Karate, Kazama Style Defense",
+			"author": "Castel",
+			"copyright": "1999-2016 Tekken Zaibatsu",
+			"Grappling Arts": {
+				"header": [
+					"Command",
+					"Throw Name",
+					"Type",
+					"Damage",
+					"Escape",
+					"Properties"
+				],
+				"moves": [
+					["(1+3_F+1+3)","Bitch Kicks","Front","12,23","1",""],
+					["(2+4_F+2+4)","Shoulder Reverse","Front","6,9,20","2",""],
+					["f,f+1+2","Stone Head","Front","33","1+2","#1"],
+					["(FC_d/b)+1+2","Ultimate Tackle","Front","5","System",""],
+					[" = (1,2,1_2,1,2)"," = Ultimate Punches","","5,5,5","System",""],
+					["   = (1,2_2,1)","   = Ultimate Punches","","5,5","System",""],
+					["   = 1+2","   = Cross Arm Lock","","25","System",""],
+					[" = 1+2"," = Cross Arm Lock","","25","System",""],
+					["qcb+1+3","Complicated Wire","Front","40","1",""],
+					["d/f+2+3","Wrist Chuck Slam","Front","40","2",""],
+					["[F+] (1+3_2+4)","Shoulder Flip","Left","12,12,19","1",""],
+					["[F+] (1+3_2+4)","Over the Limit","Right","40","2",""],
+					["[F+] (1+3_2+4)","Chicken Butcher","Back","50","None",""]
+				],
+				"footnotes": [
+					"#1 Opponent can tech roll after the throw."
+				]
+			},
+			"Basic Arts": {
+				"header": [
+					"Command",
+					"Move Name",
+					"Stance",
+					"Damage",
+					"Hit Range",
+					"Properties"
+				],
+				"moves": [
+					["1","Jab","","6","h",""],
+					["f+1","Forward Jab","","6","h",""],
+					["d/b+1","Down Jab","RC","5","s",""],
+					["FC+1","Crouch Jab","RC","5","s",""],
+					["2","Straight","","12","h",""],
+					["d+2","Down Straight","RC","8","s",""],
+					["FC+2","Crouch Straight","RC","8","s",""],
+					["3","Lateral Kick","","25","h",""],
+					["d+3","Ankle Kick","","5","l",""],
+					["FC+3","Low Spin Kick","RC","12","L",""],
+					["4","Roundhouse","","25","h","KND"],
+					["d+4","Shin Kick","RC","7","l",""],
+					["FC+4","Crouch Shin Kick","RC","10","l",""]
+				],
+				"footnotes": [
+				]
+			},
+			"Special Arts": {
+				"header": [
+					"Command",
+					"Move Name",
+					"Stance",
+					"Damage",
+					"Hit Range",
+					"Properties"
+				],
+				"moves": [
+					["1,1<2","Shining Fists","","6,6,11","hhm","KND"],
+					["1<2","Demon Jabs","","6,8","hh",""],
+					[" = <2"," = Demon Slayer","","18","h",""],
+					[" = 3"," = Shoot the Works","","25","m","GB JG"],
+					["   = 4","   = Axe Kick","","30","m","OC"],
+					["   = f+4","   = Rising Kick","","10","m",""],
+					[" = 4"," = Steel Knee","","8","m",""],
+					["   = 1+4,2","   = White Heron","","5,10,10","shh","#1"],
+					["     = 4","     = Crescent Kick","","21","m","KND"],
+					["     = d+4","     = Crescent Sweep","","14","L","JG BS"],
+					["   = 3","   = Demon Scissors","","25","M","#1 KND"],
+					["f,N,d,D/F+1","Thunder Godfist","","29","m","#2 KND"],
+					[" = u/f"," - Hell's Gate","","15","T","#5 SLD"],
+					[" = 3"," = Thunder Kick","","20","m","KND"],
+					[" = 4"," = Hell Sweep","","12","L","KND"],
+					["(d/f+1_f+1+2),2","Twin Lancer","","12,16","mm","OC"],
+					["d+1","Corpse Thrust","","24","m","KND"],
+					["b+1","Parting Wave","","15","m","MS"],
+					[" = d/f"," = Crouch Dash","","-","-","#4"],
+					["WS+1,2","Twin Pistons","","10,15","mm","JG"],
+					["d/f+1+2","Crimson Wave","","15","L","#3"],
+					["b+1+2","Demon Spear Feint","","-","-",""],
+					["B+1+2","Demon Spear","","18","m",""],
+					["B+1+2?","Heavy Demon Spear","","28","m","KND"],
+					[" = N"," = Cancel","","-","-",""],
+					[" = Release 1+2"," = Demon Strike","","42","m","#2 MS"],
+					["1+4,2","White Heron","","5,10,10","shh",""],
+					[" = 4"," = Crescent Kick","","21","m","KND"],
+					[" = d+4"," = Crescent Sweep","","14","L","JG"],
+					["2,2","Demon Slayer","","12,21","hh",""],
+					["f+2","Overhead Shot","","18","m","OCb KS"],
+					[" = <4"," = Demon Knee","","10","m",""],
+					["f,f+2","Demon Paw","","24","m","KND"],
+					["f,N,d,d/f,2","Wind Godfist","","23","h","JG"],
+					["f,N,d,D/F+2","Electric Wind Godfist","","25","h","JG"],
+					["d/f+2","Hades Hammer","","21","m","KS OCb"],
+					[" = 1"," = Hades Uppercut","","15","m","JG"],
+					[" = 2"," = Hades Sweep","","8","l",""],
+					["b+2,3","Demon PK Combo","","12,21","hh","GB"],
+					["b+2,4,2,1,2","Demon Fury","","12,10,10,10,22","hhmmm","KND"],
+					["b,f+2<1<2","Laser Cannon","","16,14,22","mmm","DSc[1] FSc[2]"],
+					["b,f+2<1<d+2","Laser Scraper","","16,14,21","mmm","DSc[1] FSc[2] JG"],
+					["WS+2","Demon Uppercut","","15","m","JG"],
+					["SS+2","Decapitating Sword","","22","h","JG"],
+					["(u/b_u_u/f)+2+4","Corpse Splitter","","24_30_34","M",""],
+					["f+3","Spinning Roundhouse","","30","h","KND"],
+					["f,f+3,1","Demon Cyclone","","18,14","mh","CFSc"],
+					[" = f,f"," = Cyclone Rewind","","-","-",""],
+					[" = 3"," = Hell Trip","","13","L","JG"],
+					[" = 4"," = Hell Spiral","","25","m","KND"],
+					["(f,f,f_f,N,d,d/f,u/f_WR)+3","Leaping Slash Kick","","30","m","GB KND"],
+					["f,N,d,d/f+3","Demon Hoof","","21","m","JG"],
+					["f,N,d,D/F+3","Demon Tail","","21","L","KND"],
+					["d+3+4","Can Can Kicks","","5,20","sh","JG"],
+					["(4~3_u/f+4~3)","Demon Scissors","","25","M","KND"],
+					["f+4","Steel Knee","","12","m",""],
+					["f,N,d,D/F+4","Hell Sweep","","18","L","JG BS"],
+					[" = 4"," = Spinning Demon","","15","m","KND"],
+					["(f,N,d,d/f,f_WS)+4,4","Rising Tsunami Kicks","","13,18","mm",""],
+					["d/f+4<4","Tsunami Kicks","","10,16","mm",""],
+					["b+4","Demon Steel Pedal","","21","M","GB CFc"],
+					["(u/f_u)+4,4,4,4","Spinning Demon","","25,15,12,25","hLLm","BS"],
+					["b+(1+3_2+4)","Attack Reversal","","Varies","-",""],
+					["b,b,u/b","Wall Jump","","25","m",""]
+				],
+				"footnotes": [
+					"#1 Previous hit is cancelled.",
+					"#2 Release 1+2 when the sparks first appear.",
+					"#3 Can only be done when opponent is knocked down.",
+					"#4 Continue with any of the Crouch Dash (f,N,d,d/f) attacks.",
+					"#5 Does not work in juggles or on jumping opponents. Damage is in addition to the Thunder Godfist damage.",
+					""
+				]
+			},
+			"Unblockable Arts": {
+				"header": [
+					"Command",
+					"Move Name",
+					"Stance",
+					"Damage",
+					"Hit Range",
+					"Properties"
+				],
+				"moves": [
+					["1+2","Thunder Crimson Beam","","37","(!)","KND"],
+					[" = u_d"," = Directional Shift","","37","(!)","KND"],
+					["(u/f_u_u/b)+1+2","Thunder Crimson Blast","","30","(!)",""],
+					["b+1+4","Demon Destruction","","40","!","KND"],
+					["B+1+4","Lightning Demon Destruction","","80","!","KND"],
+					["3+4","Infernal Flight","","-","-",""],
+					[" = B"," = Air Block","","-","-",""],
+					[" = 1+2"," = Infernal Destruction","","50","[!]","KND"],
+					[" = f+1+2"," = Cross Infernal Destruction","","50","[!]","KND"]
+				],
+				"footnotes": [
+				]
+			},
+			"String Hit Arts": {
+				"header": [
+					"Command",
+					"Hits",
+					"Damage",
+					"Hit Range"
+				],
+				"moves": [
+					["f,f,2,1,2,2,3,4,4","","7,8,6,7,6,11,5","hhhhmmL"],
+					[" = 1,2,1","10","5,8,30","hmm"],
+					[" = 3,2,1","10","5,25,30","Lm!"],
+					["f,f,2,1,4,4,2,4,3,2,1","9","7,8,7,10,5,7,5,25,30","hhmmlmLm!"],
+					["3,2,4,3,1+4,2","","15,6,10,10,7,5,7","hhmhlhh"],
+					[" = 1,3","9","21,20","mm"],
+					[" = 1,4","9","21,12","mL"],
+					[" = 2,1,2","10","10,15,30","mmm"],
+					["b+2,4,4,4,4,2,1+4,2","","12,10,10,8,6,6,5,5,5","hhhLmmlhh"],
+					[" = 1,3","11","21,12","mm"],
+					[" = 1,4","11","21,20","mL"],
+					[" = d+3+4","11","21,21","lh"]
+				],
+				"footnotes": [
+				]
+			}
+		},
+		{
+			"name": "Eddy",
+			"fullname": "Eddy Gordo",
+			"sex": "Male",
+			"origin": "Brazil",
+			"fightingStyle": "Capoeira",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -1634,7 +1857,11 @@
 			}
 		},
 		{
-			"name": "feng",
+			"name": "Feng",
+			"fullname": "Feng Wei",
+			"sex": "Male",
+			"origin": "China",
+			"fightingStyle": "God Fist Style Chinese Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -1810,7 +2037,11 @@
 			}
 		},
 		{
-			"name": "ganryu",
+			"name": "Ganryu",
+			"fullname": "Ganryu",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Sumo Wrestling",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -2017,7 +2248,11 @@
 			}
 		},
 		{
-			"name": "heihachi",
+			"name": "Heihachi",
+			"fullname": "Heihachi Mishima",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Mishima-Style Fighting Karate",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -2209,7 +2444,11 @@
 			}
 		},
 		{
-			"name": "hwoarang",
+			"name": "Hwoarang",
+			"fullname": "Hwoarang",
+			"sex": "Male",
+			"origin": "Korea",
+			"fightingStyle": "Tae Kwon Do",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -2521,7 +2760,11 @@
 			}
 		},
 		{
-			"name": "jack5",
+			"name": "Jack-5",
+			"fullname": "Jack-5",
+			"sex": "Non-Human",
+			"origin": "Russia",
+			"fightingStyle": "Power Fighting / Sheer Force",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -2720,7 +2963,11 @@
 			}
 		},
 		{
-			"name": "jin",
+			"name": "Jin",
+			"fullname": "Jin Kazama",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Advanced Mishima Karate based on Shito-ryu karate combined with Kazama-style Traditional martial arts based on Koryu bujutsu",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -2932,12 +3179,20 @@
 			}
 		},
 		{
-			"name": "jinpachi",
+			"name": "Jinpachi",
+			"fullname": "Jinpachi Mishima",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Advanced Mishima Karate (infused with devil powers)",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 		},
 		{
-			"name": "julia",
+			"name": "Julia",
+			"fullname": "Julia Chang",
+			"sex": "Female",
+			"origin": "USA",
+			"fightingStyle": "Various Chinese Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -3142,7 +3397,11 @@
 			}
 		},
 		{
-			"name": "kazuya",
+			"name": "Kazuya",
+			"fullname": "Kazuya Mishima",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Advanced Mishima Style Fighting Karate",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -3306,7 +3565,11 @@
 			}
 		},
 		{
-			"name": "king",
+			"name": "King",
+			"fullname": "King",
+			"sex": "Male",
+			"origin": "Mexico",
+			"fightingStyle": "Pro Wrestling",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -3648,7 +3911,11 @@
 			}
 		},
 		{
-			"name": "kuma",
+			"name": "Kuma",
+			"fullname": "Kuma",
+			"sex": "Non-Human",
+			"origin": "Japan",
+			"fightingStyle": "Heihachi Style Advanced Kuma Shin Ken",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -3889,7 +4156,11 @@
 			}
 		},
 		{
-			"name": "lee",
+			"name": "Lee",
+			"fullname": "Lee Chaolan",
+			"sex": "Male",
+			"origin": "Japan",
+			"fightingStyle": "Jeet Kune Do",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -4092,7 +4363,11 @@
 			}
 		},
 		{
-			"name": "lei",
+			"name": "Lei",
+			"fullname": "Lei Wulong",
+			"sex": "Male",
+			"origin": "China",
+			"fightingStyle": "5 Form Kung Fu and Zui Quan (Drunken Fist)",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -4548,7 +4823,11 @@
 			}
 		},
 		{
-			"name": "ling",
+			"name": "Xiaoyu",
+			"fullname": "Ling Xiaoyu",
+			"sex": "Female",
+			"origin": "China",
+			"fightingStyle": "Various Chinese Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -4797,7 +5076,11 @@
 			}
 		},
 		{
-			"name": "marshall",
+			"name": "Marshall",
+			"fullname": "Marshall Law",
+			"sex": "Male",
+			"origin": "USA",
+			"fightingStyle": "Jeet Kune Do",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -5075,12 +5358,11 @@
 			}
 		},
 		{
-			"name": "mokujin",
-			"author": "Castel",
-			"copyright": "1999-2016 Tekken Zaibatsu",
-		},
-		{
-			"name": "nina",
+			"name": "Nina",
+			"fullname": "Nina Williams",
+			"sex": "Female",
+			"origin": "Ireland",
+			"fightingStyle": "Koppo Assassination Arts based in Aikido",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -5344,7 +5626,11 @@
 			}
 		},
 		{
-			"name": "panda",
+			"name": "Panda",
+			"fullname": "Panda",
+			"sex": "Non-Human",
+			"origin": "China",
+			"fightingStyle": "Heihachi Style Advanced Kuma Shin Ken",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -5585,7 +5871,11 @@
 			}
 		},
 		{
-			"name": "paul",
+			"name": "Paul",
+			"fullname": "Paul Phoenix",
+			"sex": "Male",
+			"origin": "USA",
+			"fightingStyle": "Judo-based Martial Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -5779,7 +6069,11 @@
 			}
 		},
 		{
-			"name": "raven",
+			"name": "Raven",
+			"fullname": "Raven",
+			"sex": "Male",
+			"origin": "Unknown",
+			"fightingStyle": "Ninjitsu",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -5994,7 +6288,11 @@
 			}
 		},
 		{
-			"name": "roger",
+			"name": "Roger",
+			"fullname": "Roger",
+			"sex": "Non-Human",
+			"origin": "Unknown",
+			"fightingStyle": "Commando Wrestling",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -6176,7 +6474,11 @@
 			}
 		},
 		{
-			"name": "steve",
+			"name": "Steve",
+			"fullname": "Steve Fox",
+			"sex": "Male",
+			"origin": "United Kingdom",
+			"fightingStyle": "Boxing",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -6449,7 +6751,11 @@
 			}
 		},
 		{
-			"name": "wang",
+			"name": "Wang",
+			"fullname": "Wang Jinrei",
+			"sex": "Male",
+			"origin": "China",
+			"fightingStyle": "Xing Yi",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
@@ -6601,7 +6907,11 @@
 			}
 		},
 		{
-			"name": "yoshimitsu",
+			"name": "Yoshimitsu",
+			"fullname": "Yoshimitsu",
+			"sex": "Non-Human",
+			"origin": "None (formerly Japan)",
+			"fightingStyle": "Advanced Manji Ninja Arts",
 			"author": "Castel",
 			"copyright": "1999-2016 Tekken Zaibatsu",
 			"Grappling Arts": {
