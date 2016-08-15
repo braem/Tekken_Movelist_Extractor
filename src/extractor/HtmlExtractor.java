@@ -24,7 +24,7 @@ public class HtmlExtractor
 			}
 			else if(Arrays.asList(GameInfo.games).contains(args[0].toLowerCase())){
 				System.out.println("Extracting " + args[0] + " Movelists...");
-				extract(args[0], characters);
+				extract(args[0].toLowerCase(), characters);
 			}
 			else if(args[0].equalsIgnoreCase("help")) {
 				System.out.println("Enter a Tekken game or all to get all movelists.");
@@ -32,14 +32,26 @@ public class HtmlExtractor
 				System.out.println(Arrays.toString(GameInfo.games));
 			}
 			else {
-				System.out.println("Game not recognized");
+				System.out.println("Game \"" + args[0] + "\" not recognized.");
+				System.out.println("Use argument \"help\" for a list of recognized games.");
 			}
 		}
-		else {
-			System.out.println("Extracting tekken6 Movelists...");
-			extract("tekken6", characters);
+		else if(args.length == 0){ //no args => run most recent game
+			System.out.println("Extracting " + GameInfo.games[0] + " Movelists...");
+			extract(GameInfo.games[0], characters);
 		}
-		
+		else { //multiple args
+			for(String arg : args) {
+				if(Arrays.asList(GameInfo.games).contains(arg.toLowerCase())) {
+					System.out.println("Extracting " + arg + " Movelists...");
+					extract(arg.toLowerCase(), characters);
+				}
+				else {
+					System.out.println("Game \"" + arg + "\" not recognized.");
+					System.out.println("Use argument \"help\" for a list of recognized games.");
+				}
+			}
+		}
 	}
 	
 	private static void extract(String game, ArrayList<Char> characters) throws IOException {
