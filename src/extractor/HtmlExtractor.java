@@ -180,7 +180,8 @@ public class HtmlExtractor
 		return contents;
 	}
 	private static String trimHTML(String str) {
-		return str.replaceAll("<[^>]*>", "").replace("&nbsp;", " ").replace("&lt;", "<").replace("&quot;", "");
+		return str.replaceAll("<[^>]*>", "").replace("&nbsp;", " ").replace("&lt;", "<")
+				.replace("&quot;", "").replace("&amp;", "&");
 	}
 	private static String trimRight(String str) {
 		return str.replaceAll("\\s+$","");
