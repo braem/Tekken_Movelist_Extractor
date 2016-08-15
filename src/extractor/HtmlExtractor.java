@@ -16,13 +16,13 @@ public class HtmlExtractor
 	public static void main (String[] args) throws IOException {
 		ArrayList<Char> characters = GameInfo.createCharacters();	//create characters	
 		if(args.length == 1) { 
-			if(args[0] == "all") {
+			if(args[0].equalsIgnoreCase("all")) {
 				System.out.println("Extracting All Movelists...");
 				for(String game : GameInfo.games) {
 					extract(game, characters);
 				}
 			}
-			else if(Arrays.asList(GameInfo.games).contains(args[0])){
+			else if(Arrays.asList(GameInfo.games).contains(args[0].toLowerCase())){
 				System.out.println("Extracting " + args[0] + " Movelists...");
 				extract(args[0], characters);
 			}
