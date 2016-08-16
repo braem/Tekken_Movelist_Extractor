@@ -2,6 +2,7 @@
 	"game": "tekken3",
 	"movelists": [
 		{
+			"id": "anna",
 			"name": "Anna",
 			"fullname": "Anna Williams",
 			"sex": "Female",
@@ -170,6 +171,7 @@
 			]
 		},
 		{
+			"id": "bryan",
 			"name": "Bryan",
 			"fullname": "Bryan Fury",
 			"sex": "Male",
@@ -305,6 +307,7 @@
 			]
 		},
 		{
+			"id": "drb",
 			"name": "Dr. Bosconovitch",
 			"fullname": "Dr. Bosconovitch",
 			"sex": "Male",
@@ -644,6 +647,7 @@
 			]
 		},
 		{
+			"id": "eddy",
 			"name": "Eddy",
 			"fullname": "Eddy Gordo",
 			"sex": "Male",
@@ -886,6 +890,7 @@
 			]
 		},
 		{
+			"id": "forest",
 			"name": "Forest",
 			"fullname": "Forest Law",
 			"sex": "Male",
@@ -1030,6 +1035,7 @@
 			]
 		},
 		{
+			"id": "gon",
 			"name": "Gon",
 			"fullname": "Gon",
 			"sex": "Non-Human",
@@ -1146,6 +1152,7 @@
 			]
 		},
 		{
+			"id": "gunjack",
 			"name": "Gun Jack",
 			"fullname": "Gun Jack",
 			"sex": "Non-Human",
@@ -1292,6 +1299,7 @@
 			]
 		},
 		{
+			"id": "heihachi",
 			"name": "Heihachi",
 			"fullname": "Heihachi Mishima",
 			"sex": "Male",
@@ -1423,6 +1431,7 @@
 			]
 		},
 		{
+			"id": "hwoarang",
 			"name": "Hwoarang",
 			"fullname": "Hwoarang",
 			"sex": "Male",
@@ -1665,6 +1674,7 @@
 			]
 		},
 		{
+			"id": "jin",
 			"name": "Jin",
 			"fullname": "Jin Kazama",
 			"sex": "Male",
@@ -1806,6 +1816,7 @@
 			]
 		},
 		{
+			"id": "julia",
 			"name": "Julia",
 			"fullname": "Julia Chang",
 			"sex": "Female",
@@ -1935,6 +1946,7 @@
 			]
 		},
 		{
+			"id": "king",
 			"name": "King",
 			"fullname": "King",
 			"sex": "Male",
@@ -2171,6 +2183,7 @@
 			]
 		},
 		{
+			"id": "kuma",
 			"name": "Kuma",
 			"fullname": "Kuma",
 			"sex": "Non-Human",
@@ -2287,6 +2300,7 @@
 			]
 		},
 		{
+			"id": "lei",
 			"name": "Lei",
 			"fullname": "Lei Wulong",
 			"sex": "Male",
@@ -2572,6 +2586,7 @@
 			]
 		},
 		{
+			"id": "ling",
 			"name": "Xiaoyu",
 			"fullname": "Ling Xiaoyu",
 			"sex": "Female",
@@ -2769,6 +2784,7 @@
 			]
 		},
 		{
+			"id": "nina",
 			"name": "Nina",
 			"fullname": "Nina Williams",
 			"sex": "Female",
@@ -2972,6 +2988,7 @@
 			]
 		},
 		{
+			"id": "panda",
 			"name": "Panda",
 			"fullname": "Panda",
 			"sex": "Non-Human",
@@ -3088,6 +3105,7 @@
 			]
 		},
 		{
+			"id": "paul",
 			"name": "Paul",
 			"fullname": "Paul Phoenix",
 			"sex": "Male",
@@ -3210,6 +3228,7 @@
 			]
 		},
 		{
+			"id": "trueogre",
 			"name": "True Ogre",
 			"fullname": "True Ogre",
 			"sex": "Non-Human",
@@ -3343,6 +3362,7 @@
 			]
 		},
 		{
+			"id": "yoshimitsu",
 			"name": "Yoshimitsu",
 			"fullname": "Yoshimitsu",
 			"sex": "Non-Human",

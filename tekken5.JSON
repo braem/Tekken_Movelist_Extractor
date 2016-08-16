@@ -2,6 +2,7 @@
 	"game": "tekken5",
 	"movelists": [
 		{
+			"id": "anna",
 			"name": "Anna",
 			"fullname": "Anna Williams",
 			"sex": "Female",
@@ -238,6 +239,7 @@
 			]
 		},
 		{
+			"id": "asuka",
 			"name": "Asuka",
 			"fullname": "Asuka Kazama",
 			"sex": "Female",
@@ -464,6 +466,7 @@
 			]
 		},
 		{
+			"id": "baek",
 			"name": "Baek",
 			"fullname": "Baek Doo San",
 			"sex": "Male",
@@ -672,6 +675,7 @@
 			]
 		},
 		{
+			"id": "bruce",
 			"name": "Bruce",
 			"fullname": "Bruce Irvin",
 			"sex": "Male",
@@ -863,6 +867,7 @@
 			]
 		},
 		{
+			"id": "bryan",
 			"name": "Bryan",
 			"fullname": "Bryan Fury",
 			"sex": "Male",
@@ -1059,6 +1064,7 @@
 			]
 		},
 		{
+			"id": "christie",
 			"name": "Christie",
 			"fullname": "Christie Monteiro",
 			"sex": "Female",
@@ -1391,6 +1397,240 @@
 			]
 		},
 		{
+			"id": "craig",
+			"name": "Marduk",
+			"fullname": "Craig Marduk",
+			"sex": "Male",
+			"origin": "Australia",
+			"fightingStyle": "Vale Tudo",
+			"author": "Castel",
+			"copyright": "1999-2016 Tekken Zaibatsu",
+			"arts": [
+				{
+					"art": "Grappling Arts",
+					"header": [
+						"Command",
+						"Throw Name",
+						"Type",
+						"Damage",
+						"Escape",
+						"Properties"
+					],
+					"moves": [
+						["(1+3_F+1+3)","Rolling Splash","Front","35","1",""],
+						["(2+4_F+2+4)","Knee Crusher","Front","35","2",""],
+						["VTS 1+3","Rolling Splash","Front","35","1",""],
+						["VTS 2+4","Body Slam","Front","35","2",""],
+						["VTS 1+2","Spear Tackle - Tudo Mount","Front","12","1+2","#1"],
+						[" = 1"," = Melon Masher","","8,8,8,11","2",""],
+						[" = 1~2"," = Melon Masher","","8,7,5,5,10","1",""],
+						[" = 1+2"," = Mongol Chop","","15,25","-","#3"],
+						[" = 1+3"," = Neck Snap","","8,7,7,18","2",""],
+						[" = 2"," = Melon Masher","","8,7,5,5,10","1",""],
+						[" = 2~1"," = Melon Masher","","8,8,8,11","2",""],
+						[" = 2+4"," = Leg Lock","","8,7,7,18","1",""],
+						[" = 3+4"," = Skull Crush","","10,7,7,16","-","#3"],
+						["qcf+1","Northern Lights Suplex","Front","25","1",""],
+						[" = 1+2"," = Mount","","-","-","#2"],
+						["f,hcf+1","Jack Hammer","Front","45","1",""],
+						["f,f+1+2","Atomic Buster","Front","30","1+2","JG"],
+						["qcb+1+2","Back Freaker","Front","40","1+2",""],
+						["qcf+2","Power Slam","Front","25","2",""],
+						[" = 1+2"," = Mount","","-","-","#2"],
+						["d+1+3","Power Bomb","Crouch","45","1",""],
+						["d+2+4","Ultimate Knee","Crouch","45","2",""],
+						["f,f+1+2","Air Suplex","Air","25","-",""],
+						["(1+3_F+1+3_VTS 1+3)","Gator Slam","Air","17","-",""],
+						["(2+4_F+2+4)","Tudo Swing","Air","17","-",""],
+						["d/b+(1+3_2+4)","Hercules Toss","Ground","20","(1_2)","#4 JG"],
+						["d/b+(1+3_2+4)","Rib Buster","Ground","30","","#5"],
+						["d/b+(1+3_2+4)","Body Blow - Tudo Mount","Ground","12","","#6 #2"],
+						["[F+] (1+3_2+4)","Reverse Head Crusher","Left","45","1",""],
+						["[F+] (1+3_2+4)","Lift Drop","Right","40","2",""],
+						["(1+3_F+1+3)","Back Drop","Back","60","None",""],
+						["(2+4_F+2+4)","Reverse Air Splash","Back","55","None",""]
+					],
+					"footnotes": [
+						"#1 Tackle is not escapable when started from a long distance away.",
+						"#2 Follow up with Tudo Mount extensions.",
+						"#3 Craig will dismount when you do not attempt to escape the mount attack.",
+						"#4 Opponent's grounded position needs to be KND, SLD, PLD or FCD",
+						"#5 Opponent's grounded position is face down and sideways",
+						"#6 Opponent's grounded position is face up and sideways"
+					]
+				},
+				{
+					"art": "Basic Arts",
+					"header": [
+						"Command",
+						"Move Name",
+						"Stance",
+						"Damage",
+						"Hit Range",
+						"Properties"
+					],
+					"moves": [
+						["1","Jab","","7","h",""],
+						["f+1","Forward Jab","","7","h",""],
+						["d/b+1","Down Jab","RC","5","s",""],
+						["FC+1","Crouch Jab","RC","5","s",""],
+						["2","Straight","","12","h",""],
+						["FC+2","Crouch Straight","RC","8","s",""],
+						["3","Hook Kick","","28","h","KND"],
+						["d+3","Step Shin Kick","","12","l",""],
+						["FC+3","Low Spin Kick","RC","12","l",""],
+						["4","Sideswipe Kick","","20","h","MS JGc"],
+						["d+4","Knee Slicer","","16","l",""],
+						["FC+4","Crouch Shin Kick","RC","10","l",""]
+					],
+					"footnotes": [
+					]
+				},
+				{
+					"art": "Special Arts",
+					"header": [
+						"Command",
+						"Move Name",
+						"Stance",
+						"Damage",
+						"Hit Range",
+						"Properties"
+					],
+					"moves": [
+						["1,2","One Two Punch","","7,12","hh",""],
+						[" = f+1"," = Elbow Sting","","21","h","MS FCDc"],
+						[" = 3,1+2"," = Stomach Kick - Tudo Noogie","","17,28","mh","KS"],
+						[" = 3+4 [~3+4]"," = Vale Tudo Style [Crouch Cancel]","VTS","-","-",""],
+						["1,d+2","Straight - Gut Punch","","7,13","hm","GB MS"],
+						["f,f+1","Blister Elbow","","21","m","JG GB"],
+						[" = <2"," = Blister Knuckle","","24","m","GB KND"],
+						[" = <2?"," = Delayed Blister Knuckle","","40","m","GB KND"],
+						["d/f+1","Swing Upper","","15","m","JG"],
+						["d+1","Tank Elbow","","18","m","OCb KS"],
+						["b+1","Knuckle Dunk","","18","M","KS SLDc OCb"],
+						["WS+1","Health Tap","","12","m",""],
+						["1+2","Guard Push","","-","m","GB"],
+						["f+1+2","Cyclone Knuckles","","21","h","PLDc"],
+						["d/f+1+2","Tudo Noogie","","23","m","KS"],
+						["d+1+2","Shoulder Impact","","24","m","JG GB"],
+						["d/b+1+2","Sway Power Hammer","","28","m","GB JG"],
+						["u/f+1+2","Mongolian Crush","","21","h","CF"],
+						["WS+1+2","Quick Upper","","12","m",""],
+						["FC+1+2:b","Craig Horn - Tudo Toss","","20,4","m","#3"],
+						["2,1","Kong Combo","","12,12","hh","MS"],
+						["2,d+1+2","Hook - Shoulder Impact","","12,24","hm","JG GB"],
+						["f+2","Hammer","","20","h","GB MS CFSc"],
+						[" = <1"," = Hammer Hook","","25","h","CFS"],
+						[" = <d+1"," = Hook Smash","","21","m","KS OCb"],
+						["f,f+2","Elbow Sting","","21","h","KND"],
+						["d/f+2","Gut Punch","","13","m","GB MS"],
+						["d+2,4","Alligator","","18,21","mm","KS[1] OCb[1] CSc"],
+						["d/b+2","Flash Tomahawk","","18","m","KSc OCb"],
+						["b+2","Rolling Back Chop","","24","m","MS CFSc"],
+						["WS+2","Tornado Chop","","28","h","PLD"],
+						["SS+2","Backhand Spin Knuckle","","24","m","GB SLD KNDc"],
+						["f+3","Knee Lift","","27","m","JGc GB"],
+						["d/f+3","Stomach Kick","","18","m",""],
+						[" = 1,2"," = One Two Punch","","7,12","hh",""],
+						["   = f+1","   = Elbow Sting","","21","h","MS FCDc"],
+						["   = 3,1+2","   = Stomach Kick - Tudo Noogie","","17,28","mh","KS"],
+						["   = 3+4 [~3+4]","   = Vale Tudo Style [Crouch Cancel]","VTS","-","-",""],
+						[" = 1,d+2"," = Straight - Gut Punch","","7,13","hm","GB MS"],
+						[" = d+1<2"," = Kong Rush","","12,21","mm","JG[1] OCb"],
+						[" = 1+2"," = Tudo Noogie","","28","h","KS"],
+						["WS+3","Raid Kick","","18","m","JG GB"],
+						["(f,f,f_WR)+3","Bicycle Kick","","35","M","GB KND"],
+						["3+4","Vale Tudo Style","VTS","-","-",""],
+						["f+3+4","Alligator Tackle","","35","m","GB KND"],
+						["d/b+3+4","Backdash Vale Tudo Style","VTS","-","-",""],
+						["(u/b_u_u/f)+3+4","Gator Stomp","","21","M","OCb OC"],
+						["f+4","Wild Stomp","","18","M","KS SLDc OCb"],
+						["d/f+4","Side Kick","","19","m",""],
+						["d/b+4","Ground Stomp","","22","L","#2"],
+						["d/b+4","Leg Scissors","KND","12","l","#4 PLD FCDc"],
+						["b+4","Bazooka Heel","","30","h","GB"],
+						["u/f+4","Jump Gut Kick","","18","m","OCb KND"],
+						["WS+4","Kong Knee","","21","","GB KND"],
+						["(FC,d/f_D/F)+4","Gator Sweep","RC","19","L","MS PLDc"],
+						["(SLD_FCD) 2","Wake Up Hammer","","28","m","MS GB"],
+						["(SLD_FCD) d+2","Wake Up Sweep","RC","18","l","PLD"],
+						["b+1+2","High Attack Reversal - Tudo Mount","","8","-","#1"],
+						["b+3+4","Mid Attack Reversal - Tudo Mount","","8","-","#1"],
+						["b,b,u/b","Wall Jump","","15","m",""]
+					],
+					"footnotes": [
+						"#1 Follow up with Tudo Mount extensions.",
+						"#2 Only when opponent is grounded",
+						"#3 Just frame input needs to be done on frame 21 or 22.",
+						"#4 On CH opponent is in FCD and Craig stand up right away.",
+						""
+					]
+				},
+				{
+					"art": "Vale Tudo Style Arts",
+					"header": [
+						"Command",
+						"Move Name",
+						"Stance",
+						"Damage",
+						"Hit Range",
+						"Properties"
+					],
+					"moves": [
+						["1","Health Tap","","12","m",""],
+						["1+2","Tudo Tackle","","12","T","#1"],
+						[" = u_d"," = Tackle Cancel","VTS","-","-",""],
+						["2","Tornado Chop","","28","h",""],
+						["f+2","Power Straight","","22","m","GB SLD KNDc"],
+						["3","Raid Kick","","18","m","JG GB"],
+						["3+4","Vale Tudo Style Cancel","","-","-","#3"],
+						["(u/b_u_u/f)+3+4","Gator Stomp","","21","M","OCb"],
+						["4","Kong Knee","","21","m","GB KND"],
+						["(u_d)","Side Step","VTS","-","-","#2"],
+						["(d/f_d/b)","Full Crouch Cancel","RC","-","-","#3"]
+					],
+					"footnotes": [
+						"#1 See Grappling Arts.",
+						"#2 After the Side Step you can still execute any VTS move.",
+						"#3 Cannot be done after going into VTS with d/b+3+4."
+					]
+				},
+				{
+					"art": "Unblockable Arts",
+					"header": [
+						"Command",
+						"Move Name",
+						"Stance",
+						"Damage",
+						"Hit Range",
+						"Properties"
+					],
+					"moves": [
+						["b+2+3 [~b]","Craig Cannon [Cancel]","","80","!",""]
+					],
+					"footnotes": [
+					]
+				},
+				{
+					"art": "String Hit Arts",
+					"header": [
+						"Command",
+						"Hits",
+						"Damage",
+						"Hit Range"
+					],
+					"moves": [
+						["2,1,3,1,2,1","","12,12,8,6,12,8","hhmmhm"],
+						[" = 2,2,3,2","10","6,13,6,22","mmLh"],
+						[" = 4,3,1,4","10","7,10,12,25","Lmmh"]
+					],
+					"footnotes": [
+					]
+				}
+			]
+		},
+		{
+			"id": "deviljin",
 			"name": "Devil Jin",
 			"fullname": "Devil Jin",
 			"sex": "Non-Human",
@@ -1593,6 +1833,7 @@
 			]
 		},
 		{
+			"id": "eddy",
 			"name": "Eddy",
 			"fullname": "Eddy Gordo",
 			"sex": "Male",
@@ -1925,6 +2166,7 @@
 			]
 		},
 		{
+			"id": "feng",
 			"name": "Feng",
 			"fullname": "Feng Wei",
 			"sex": "Male",
@@ -2113,6 +2355,7 @@
 			]
 		},
 		{
+			"id": "ganryu",
 			"name": "Ganryu",
 			"fullname": "Ganryu",
 			"sex": "Male",
@@ -2333,6 +2576,7 @@
 			]
 		},
 		{
+			"id": "heihachi",
 			"name": "Heihachi",
 			"fullname": "Heihachi Mishima",
 			"sex": "Male",
@@ -2536,6 +2780,7 @@
 			]
 		},
 		{
+			"id": "hwoarang",
 			"name": "Hwoarang",
 			"fullname": "Hwoarang",
 			"sex": "Male",
@@ -2863,6 +3108,7 @@
 			]
 		},
 		{
+			"id": "jack5",
 			"name": "Jack-5",
 			"fullname": "Jack-5",
 			"sex": "Non-Human",
@@ -3073,6 +3319,7 @@
 			]
 		},
 		{
+			"id": "jin",
 			"name": "Jin",
 			"fullname": "Jin Kazama",
 			"sex": "Male",
@@ -3297,6 +3544,7 @@
 			]
 		},
 		{
+			"id": "jinpachi",
 			"name": "Jinpachi",
 			"fullname": "Jinpachi Mishima",
 			"sex": "Male",
@@ -3308,6 +3556,7 @@
 			]
 		},
 		{
+			"id": "julia",
 			"name": "Julia",
 			"fullname": "Julia Chang",
 			"sex": "Female",
@@ -3525,6 +3774,7 @@
 			]
 		},
 		{
+			"id": "kazuya",
 			"name": "Kazuya",
 			"fullname": "Kazuya Mishima",
 			"sex": "Male",
@@ -3700,6 +3950,7 @@
 			]
 		},
 		{
+			"id": "king",
 			"name": "King",
 			"fullname": "King",
 			"sex": "Male",
@@ -4056,6 +4307,7 @@
 			]
 		},
 		{
+			"id": "kuma",
 			"name": "Kuma",
 			"fullname": "Kuma",
 			"sex": "Non-Human",
@@ -4311,6 +4563,7 @@
 			]
 		},
 		{
+			"id": "lee",
 			"name": "Lee",
 			"fullname": "Lee Chaolan",
 			"sex": "Male",
@@ -4526,6 +4779,7 @@
 			]
 		},
 		{
+			"id": "lei",
 			"name": "Lei",
 			"fullname": "Lei Wulong",
 			"sex": "Male",
@@ -5004,6 +5258,7 @@
 			]
 		},
 		{
+			"id": "ling",
 			"name": "Xiaoyu",
 			"fullname": "Ling Xiaoyu",
 			"sex": "Female",
@@ -5266,6 +5521,7 @@
 			]
 		},
 		{
+			"id": "marshall",
 			"name": "Marshall",
 			"fullname": "Marshall Law",
 			"sex": "Male",
@@ -5559,6 +5815,7 @@
 			]
 		},
 		{
+			"id": "nina",
 			"name": "Nina",
 			"fullname": "Nina Williams",
 			"sex": "Female",
@@ -5835,6 +6092,7 @@
 			]
 		},
 		{
+			"id": "panda",
 			"name": "Panda",
 			"fullname": "Panda",
 			"sex": "Non-Human",
@@ -6090,6 +6348,7 @@
 			]
 		},
 		{
+			"id": "paul",
 			"name": "Paul",
 			"fullname": "Paul Phoenix",
 			"sex": "Male",
@@ -6296,6 +6555,7 @@
 			]
 		},
 		{
+			"id": "raven",
 			"name": "Raven",
 			"fullname": "Raven",
 			"sex": "Male",
@@ -6523,6 +6783,7 @@
 			]
 		},
 		{
+			"id": "roger",
 			"name": "Roger",
 			"fullname": "Roger",
 			"sex": "Non-Human",
@@ -6717,6 +6978,7 @@
 			]
 		},
 		{
+			"id": "steve",
 			"name": "Steve",
 			"fullname": "Steve Fox",
 			"sex": "Male",
@@ -7006,6 +7268,7 @@
 			]
 		},
 		{
+			"id": "wang",
 			"name": "Wang",
 			"fullname": "Wang Jinrei",
 			"sex": "Male",
@@ -7169,6 +7432,7 @@
 			]
 		},
 		{
+			"id": "yoshimitsu",
 			"name": "Yoshimitsu",
 			"fullname": "Yoshimitsu",
 			"sex": "Non-Human",

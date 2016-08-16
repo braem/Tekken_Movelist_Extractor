@@ -2,6 +2,7 @@
 	"game": "tekkentag",
 	"movelists": [
 		{
+			"id": "alex",
 			"name": "Alex",
 			"fullname": "Alex",
 			"sex": "Non-Human",
@@ -167,6 +168,7 @@
 			]
 		},
 		{
+			"id": "angel",
 			"name": "Angel",
 			"fullname": "Angel",
 			"sex": "Non-Human",
@@ -305,6 +307,7 @@
 			]
 		},
 		{
+			"id": "anna",
 			"name": "Anna",
 			"fullname": "Anna Williams",
 			"sex": "Female",
@@ -523,6 +526,7 @@
 			]
 		},
 		{
+			"id": "armorking",
 			"name": "Armor King",
 			"fullname": "Armor King",
 			"sex": "Male",
@@ -710,6 +714,7 @@
 			]
 		},
 		{
+			"id": "baek",
 			"name": "Baek",
 			"fullname": "Baek Doo San",
 			"sex": "Male",
@@ -911,6 +916,7 @@
 			]
 		},
 		{
+			"id": "bruce",
 			"name": "Bruce",
 			"fullname": "Bruce Irvin",
 			"sex": "Male",
@@ -1095,6 +1101,7 @@
 			]
 		},
 		{
+			"id": "bryan",
 			"name": "Bryan",
 			"fullname": "Bryan Fury",
 			"sex": "Male",
@@ -1275,6 +1282,7 @@
 			]
 		},
 		{
+			"id": "devil",
 			"name": "Devil",
 			"fullname": "Devil Kazuya",
 			"sex": "Non-Human",
@@ -1413,6 +1421,7 @@
 			]
 		},
 		{
+			"id": "eddy",
 			"name": "Eddy",
 			"fullname": "Eddy Gordo",
 			"sex": "Male",
@@ -1702,6 +1711,7 @@
 			]
 		},
 		{
+			"id": "forest",
 			"name": "Forest",
 			"fullname": "Forest Law",
 			"sex": "Male",
@@ -1893,6 +1903,7 @@
 			]
 		},
 		{
+			"id": "ganryu",
 			"name": "Ganryu",
 			"fullname": "Ganryu",
 			"sex": "Male",
@@ -2063,6 +2074,7 @@
 			]
 		},
 		{
+			"id": "gunjack",
 			"name": "Gun Jack",
 			"fullname": "Gun Jack",
 			"sex": "Non-Human",
@@ -2252,6 +2264,7 @@
 			]
 		},
 		{
+			"id": "heihachi",
 			"name": "Heihachi",
 			"fullname": "Heihachi Mishima",
 			"sex": "Male",
@@ -2419,6 +2432,7 @@
 			]
 		},
 		{
+			"id": "hwoarang",
 			"name": "Hwoarang",
 			"fullname": "Hwoarang",
 			"sex": "Male",
@@ -2714,6 +2728,7 @@
 			]
 		},
 		{
+			"id": "jack2",
 			"name": "Jack-2",
 			"fullname": "Jack-2",
 			"sex": "Non-Human",
@@ -2889,6 +2904,7 @@
 			]
 		},
 		{
+			"id": "jin",
 			"name": "Jin",
 			"fullname": "Jin Kazama",
 			"sex": "Male",
@@ -3109,6 +3125,7 @@
 			]
 		},
 		{
+			"id": "julia",
 			"name": "Julia",
 			"fullname": "Julia Chang",
 			"sex": "Female",
@@ -3284,6 +3301,7 @@
 			]
 		},
 		{
+			"id": "jun",
 			"name": "Jun",
 			"fullname": "Jun Kazama",
 			"sex": "Female",
@@ -3464,6 +3482,7 @@
 			]
 		},
 		{
+			"id": "kazuya",
 			"name": "Kazuya",
 			"fullname": "Kazuya Mishima",
 			"sex": "Male",
@@ -3617,6 +3636,7 @@
 			]
 		},
 		{
+			"id": "king",
 			"name": "King",
 			"fullname": "King",
 			"sex": "Male",
@@ -3895,6 +3915,7 @@
 			]
 		},
 		{
+			"id": "kuma",
 			"name": "Kuma",
 			"fullname": "Kuma",
 			"sex": "Non-Human",
@@ -4082,6 +4103,7 @@
 			]
 		},
 		{
+			"id": "kunimitsu",
 			"name": "Kunimitsu",
 			"fullname": "Kunimitsu",
 			"sex": "Female",
@@ -4236,6 +4258,7 @@
 			]
 		},
 		{
+			"id": "lee",
 			"name": "Lee",
 			"fullname": "Lee Chaolan",
 			"sex": "Male",
@@ -4445,6 +4468,7 @@
 			]
 		},
 		{
+			"id": "lei",
 			"name": "Lei",
 			"fullname": "Lei Wulong",
 			"sex": "Male",
@@ -4786,6 +4810,7 @@
 			]
 		},
 		{
+			"id": "ling",
 			"name": "Xiaoyu",
 			"fullname": "Ling Xiaoyu",
 			"sex": "Female",
@@ -5028,6 +5053,7 @@
 			]
 		},
 		{
+			"id": "michelle",
 			"name": "Michelle",
 			"fullname": "Michelle Chang",
 			"sex": "Female",
@@ -5200,6 +5226,7 @@
 			]
 		},
 		{
+			"id": "nina",
 			"name": "Nina",
 			"fullname": "Nina Williams",
 			"sex": "Female",
@@ -5467,6 +5494,7 @@
 			]
 		},
 		{
+			"id": "panda",
 			"name": "Panda",
 			"fullname": "Panda",
 			"sex": "Non-Human",
@@ -5654,6 +5682,7 @@
 			]
 		},
 		{
+			"id": "paul",
 			"name": "Paul",
 			"fullname": "Paul Phoenix",
 			"sex": "Male",
@@ -5818,6 +5847,7 @@
 			]
 		},
 		{
+			"id": "prototype",
 			"name": "Prototype",
 			"fullname": "Prototype Jack",
 			"sex": "Non-Human",
@@ -5987,6 +6017,7 @@
 			]
 		},
 		{
+			"id": "roger",
 			"name": "Roger",
 			"fullname": "Roger",
 			"sex": "Non-Human",
@@ -6152,6 +6183,7 @@
 			]
 		},
 		{
+			"id": "trueogre",
 			"name": "True Ogre",
 			"fullname": "True Ogre",
 			"sex": "Non-Human",
@@ -6325,6 +6357,7 @@
 			]
 		},
 		{
+			"id": "wang",
 			"name": "Wang",
 			"fullname": "Wang Jinrei",
 			"sex": "Male",
@@ -6476,6 +6509,7 @@
 			]
 		},
 		{
+			"id": "yoshimitsu",
 			"name": "Yoshimitsu",
 			"fullname": "Yoshimitsu",
 			"sex": "Non-Human",
@@ -6686,6 +6720,7 @@
 			]
 		},
 		{
+			"id": "unknown",
 			"name": "Unknown",
 			"fullname": "Unknown",
 			"sex": "Non-Human",
