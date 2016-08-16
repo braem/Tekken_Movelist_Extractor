@@ -23,6 +23,7 @@ public class GameInfo {
 		c.add(new Char("bryan", "Bryan", "Bryan Fury", "Male", "USA", "Kickboxing"));
 		c.add(new Char("christie", "Christie", "Christie Monteiro", "Female", "Brazil", "Capoeira"));
 		c.add(new Char("claudio", "Claudio", "Claudio Serafino", "Male", "Italy", "Sirius Styled Purification Sorcery"));
+		c.add(new Char("craig", "Marduk", "Craig Marduk", "Male", "Australia", "Vale Tudo"));
 		c.add(new Char("dragunov", "Dragunov", "Sergei Dragunov", "Male", "Russia", "Combat Sambo"));
 		c.add(new Char("deviljin", "Devil Jin", "Devil Jin", "Non-Human", "Japan", "Advanced Mishima Style Karate, Kazama Style Defense"));
 		c.add(new Char("devil", "Devil", "Devil Kazuya", "Non-Human", "Japan", "Advanced Mishima Style Fighting Karate"));
@@ -58,7 +59,6 @@ public class GameInfo {
 		c.add(new Char("lili", "Lili", "Lili De Rochefort", "Female", "Monaco", "Self-Taught"));
 		c.add(new Char("ling", "Xiaoyu", "Ling Xiaoyu", "Female", "China", "Various Chinese Martial Arts"));
 		c.add(new Char("luckychloe", "Lucky Chloe", "Lucky Chloe", "Female", "Unknown", "Freestyle Dance"));
-		c.add(new Char("marduk", "Marduk", "Craig Marduk", "Male", "Australia", "Vale Tudo"));
 		c.add(new Char("marshall", "Marshall", "Marshall Law", "Male", "USA", "Jeet Kune Do"));
 		c.add(new Char("masterraven", "Master Raven", "Master Raven", "Female", "Unknown", "Ninjitsu"));
 		c.add(new Char("michelle", "Michelle", "Michelle Chang", "Female", "USA", "Chinese Kenpo"));
