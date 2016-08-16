@@ -35,6 +35,7 @@ public class FileIO
 			ArrayList<ArrayList<String>> 			footnotes	= movelist.footnotes;
 			
 			String indent = "\t\t\t";
+			charContents.add(indent + "\"id\": \"" + character.id + "\",");
 			charContents.add(indent + "\"name\": \"" + character.name + "\",");
 			charContents.add(indent + "\"fullname\": \"" + character.fullname + "\",");
 			charContents.add(indent + "\"sex\": \"" + character.sex + "\",");
