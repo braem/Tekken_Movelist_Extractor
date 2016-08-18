@@ -18,7 +18,7 @@ public class GameInfo {
 		c.add(new Char("asuka", "Asuka", "Asuka Kazama", "Female", "Japan", "Kazama Style Traditional Martial Arts"));
 		c.add(new Char("azazel", "Azazel", "Azazel", "Non-Human", "Unknown", "Unknown"));
 		c.add(new Char("baek", "Baek", "Baek Doo San", "Male", "Korea", "Tae Kwon Do"));
-		c.add(new Char("bob", "Bob", "Bob Richard", "Male", "USA", "Free Style Karate"));
+		c.add(new Char("bob", "Bob", "Bob Richards", "Male", "USA", "Free Style Karate"));
 		c.add(new Char("bruce", "Bruce", "Bruce Irvin", "Male", "USA", "Muay Thai Kickboxing"));
 		c.add(new Char("bryan", "Bryan", "Bryan Fury", "Male", "USA", "Kickboxing"));
 		c.add(new Char("christie", "Christie", "Christie Monteiro", "Female", "Brazil", "Capoeira"));
