@@ -55,7 +55,7 @@ public class GameInfo {
 		c.add(new Char("lars", "Lars", "Lars Alexandersson", "Male", "Sweden", "Shorinji Karate and Tekken Force Martial Arts"));
 		c.add(new Char("lee", "Lee", "Lee Chaolan", "Male", "Japan", "Jeet Kune Do"));
 		c.add(new Char("lei", "Lei", "Lei Wulong", "Male", "China", "5 Form Kung Fu and Zui Quan (Drunken Fist)"));
-		c.add(new Char("leo", "Leo", "Leo Kliesen", "Ambiguous", "Germany", "Bajiquan"));
+		c.add(new Char("leo", "Leo", "Leo Kliesen", "Female", "Germany", "Bajiquan"));
 		c.add(new Char("lili", "Lili", "Lili De Rochefort", "Female", "Monaco", "Self-Taught"));
 		c.add(new Char("ling", "Xiaoyu", "Ling Xiaoyu", "Female", "China", "Various Chinese Martial Arts"));
 		c.add(new Char("luckychloe", "Lucky Chloe", "Lucky Chloe", "Female", "Unknown", "Freestyle Dance"));
